@@ -6,13 +6,13 @@ A presentation of our analysis methods and resultds can be found in Python_Proje
 
 ## Prerequisites
 The settings and interpreter to run source codes have the following requirements:
-### Interpreter: Python2.7 with ArcGIS 10.2
-### Installed packages:
-### ArcPy
-### Numpy 1.6.1
-### Pandas 0.22.0
-### Matplotlib 1.1.1
-### Pyproj 1.9.5.1
+* Interpreter: Python2.7 with ArcGIS 10.2
+* Installed packages:
+* ArcPy
+* Numpy 1.6.1
+* Pandas 0.22.0
+* Matplotlib 1.1.1
+* Pyproj 1.9.5.1
 
 ## Author
 ### JIANG Yuchang
