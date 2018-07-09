@@ -1,0 +1,70 @@
+Fitness Rooms	North Kwai Chung Tang Shiu Kin Sports Centre	"292 Wo Yi Hop Road, Kwai Chung"	114.1375	22.37388889	832218.8	826076.4	KWAI TSING
+Fitness Rooms	Ap Lei Chau Sports Centre	"8 Hung Shing Street, Apleichau"	114.1555556	22.24444444	834056	811748	SOUTHERN
+Fitness Rooms	Tsuen Wan West Sports Centre	"68 Hoi On Road, Tsuen Wan"	114.1005556	22.37055556	828403	825702	TSUEN WAN
+Fitness Rooms	Fat Kwong Street Sports Centre	"18 Good Shepherd Street, Ho Man Tin"	114.1811111	22.31472222	836704	819538	KOWLOON CITY
+Fitness Rooms	Tai Wo Hau Sports Centre	"39 Tai Ha Street, Tai Wo Hau, Kwai Chung"	114.125	22.37027778	830920.2	825670.1	KWAI TSING
+Fitness Rooms	Yau Oi Sports Centre	"3 Hing On Lane, Tuen Mun"	113.9716667	22.38555556	815149.4	827373.5	TUEN MUN
+Fitness Rooms	To Kwa Wan Sports Centre	"66 Ha Heung Road, To Kwa Wan"	114.19	22.31888889	837633	819983	KOWLOON CITY
+Fitness Rooms	Lei Yue Mun Sports Centre	"2/F to 5/F of Lei Yue Mun Municipal Services Building, Yau Tong, Kowloon"	114.2386111	22.29194444	842637	817018	KWUN TONG
+Fitness Rooms	Shek Kip Mei Park Sports Centre	"290 Nam Cheong Street, Shek Kip Mei"	114.17	22.33722222	835556	822025	SHAM SHUI PO
+Fitness Rooms	Tsing Yi Sports Centre	"2/F, Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi"	114.1063889	22.35416667	829020	823899.9	KWAI TSING
+Fitness Rooms	Ho Man Tin Sports Centre	"1 Chung Yee street, Ho Man Tin"	114.1811111	22.31194444	836718	819221	KOWLOON CITY
+Fitness Rooms	Aberdeen Sports Centre	"6/F Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen"	114.1544444	22.24944444	833947	812311	SOUTHERN
+Fitness Rooms	Hang Hau Sports Centre	"1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O."	114.2683333	22.31722222	845681	819800.3	SAI KUNG
+Fitness Rooms	Wo Hing Sports Centre	"8 Wo Ming Lane, Fanling"	114.1430556	22.48472222	832796	838355	NORTH
+Fitness Rooms	Hong Kong Park Sports Centre	"29 Cotton Tree Drive, Central"	114.1591667	22.27722222	834456	815387	CENTRAL & WESTERN
+Fitness Rooms	Chai Wan Sports Centre	"6 Yee Shun Street, Chai Wan"	114.24	22.26472222	842765	814005	EASTERN
+Fitness Rooms	Kwun Chung Sports Centre	"5/F - 7/F, 17 Bowring Street, Jordon"	114.1683333	22.30444444	835380	818387	YAU TSIM MONG
+Fitness Rooms	Tai Hing Sports Centre	"38 Tsing Chung Koon Road, Tuen Mun"	113.9730556	22.40333333	815282.9	829358	TUEN MUN
+Fitness Rooms	Sheung Wan Sports Centre	"11/F Sheung Wan Municipal Services Building, 345 Queen's Road Central"	114.1497222	22.28611111	833460	816346	CENTRAL & WESTERN
+Fitness Rooms	Tai Wo Sports Centre	"Podium Level, Tai Wo Shopping Centre, Tai Wo Estate, Tai Po"	114.1605556	22.45111111	834591	834617	TAI PO
+Fitness Rooms	Long Ping Sports Centre	"2/F., Long Ping Commercial Centre, 202 Long Ping Estate, Yuen Long"	114.0230556	22.45027778	820449	834547	YUEN LONG
+Fitness Rooms	Smithfield Sports Centre	"4/F, Smithfield Municipal Services Building, 12K Smithfield Road, Kennedy Town, Western"	114.1286111	22.28194444	831297	815897	CENTRAL & WESTERN
+Fitness Rooms	Osman Ramju Sadick Memorial Sports Centre	"176 Hing Fong Road, Kwai Chung"	114.1294444	22.36111111	831391	824665	KWAI TSING
+Fitness Rooms	Ngau Tau Kok Road Sports Centre	"3/F-4/F Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Ngau Tau Kok"	114.2163889	22.32138889	840338	820275	KWUN TONG
+Fitness Rooms	Yuen Long Sports Centre	"3/F, Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long"	114.0238889	22.44138889	820517.2	833569.1	YUEN LONG
+Fitness Rooms	Cheung Fat Sports Centre	"4/F, Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi"	114.1027778	22.3625	828627.9	824815.8	KWAI TSING
+Fitness Rooms	Peng Chau Sports Centre	"Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau"	114.0380556	22.285	821962	816229	ISLANDS
+Fitness Rooms	Island East Sports Centre	"52 Lei King Road, Sai Wan Ho"	114.2222222	22.28472222	840948	816205	EASTERN
+Fitness Rooms	Tin Shui Sports Centre	"7 Tin Shui Road, Tin Shui Wai, Yuen Long"	113.9980556	22.45472222	817854	835045	YUEN LONG
+Fitness Rooms	Yeung Uk Road Sports Centre	"4/F Yeung Uk Road Municipal Services Building, 45 Yeung Uk Road, Tsuen Wan"	114.1144444	22.36888889	829846	825537	TSUEN WAN
+Fitness Rooms	Po Wing Road Sports Centre	"19 Pak Wo Road, Sheung Shui, New Territories"	114.1283333	22.49694444	831273.9	839708.9	NORTH
+Fitness Rooms	Tai Po Hui Sports Centre	"6/F Multi Car-Park Building, Fu Shin Estate, 8 Heung Sze Wui Street, Tai Po"	114.1666667	22.44611111	835208	834077	TAI PO
+Fitness Rooms	Choi Hung Road Sports Centre	"Sheung Hei Street, Wong Tai Sin"	114.1963889	22.33722222	838285	822007	WONG TAI SIN
+Fitness Rooms	Fu Heng Sports Centre	"1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po"	114.1713889	22.45833333	835700	835424	TAI PO
+Fitness Rooms	Shek Tong Tsui Sports Centre	"5/F Shek Tong Tsui Municipal Services Building, 470 Queen's Road West"	114.1361111	22.28583333	832061	816315	CENTRAL & WESTERN
+Fitness Rooms	Lockhart Road Sports Centre	"10/F Lockhart Road Municipal Services Building, 225 Hennessy Road, Wanchai"	114.1755556	22.27805556	836118	815468	WAN CHAI
+Fitness Rooms	Po On Road Sports Centre	"1/F & 2/F Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po"	114.1575	22.33861111	834261	822172.3	SHAM SHUI PO
+Fitness Rooms	Lung Sum Avenue Sports Centre	"155 Jockey Club Road, Sheung Shui"	114.1305556	22.505	831491	840595	NORTH
+Fitness Rooms	Wai Tsuen Sports Centre	"6 Miu Kong Street, Tsuen Wan"	114.1225	22.37222222	830667	825905	TSUEN WAN
+Fitness Rooms	Tin Ping Sports Centre	"3/F., Tin Ping Estate Shopping Centre, Tin Ping Estate, North"	114.1336111	22.50333333	831820	840411	NORTH
+Fitness Rooms	Fung Shue Wo Sports Centre	"10 Fung Shue Wo Road, Tsing Yi Estate, Phase II, Tsing Yi"	114.1027778	22.35555556	828627.1	824041.3	KWAI TSING
+Fitness Rooms	Leung Tin Sports Centre	"4/F, Carpark Building, Tin King Estate, Tuen Mun"	113.965	22.40666667	814461	829716	TUEN MUN
+Fitness Rooms	The Jockey Club Tuen Mun Butterfly Beach Sports Centre	"Wu Shan Road, Tuen Mun"	113.9647222	22.37861111	814417	826625	TUEN MUN
+Fitness Rooms	Pei Ho Street Sports Centre	"5/F Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po"	114.1611111	22.32916667	834646	821134	SHAM SHUI PO
+Fitness Rooms	Cheung Chau Sports Centre	"Nam She Tong, Cheung Chau"	114.0311111	22.2075	821245	807661	ISLANDS
+Fitness Rooms	Fung Kam Street Sports Centre	"20 Fung Yau Street North, Yuen Long"	114.0330556	22.44305556	821461	833745	YUEN LONG
+Fitness Rooms	Lai King Sports Centre	"60 Lai Cho Road, Lai King, Kwai Chung"	114.1277778	22.34972222	831200.1	823417.4	KWAI TSING
+Fitness Rooms	Po Lam Sports Centre	"Po Lam Estate, Tseung Kwan O, Sai Kung"	114.255	22.32583333	844328	820761	SAI KUNG
+Fitness Rooms	Luen Wo Hui Sports Centre	"3/F., 9 Wo Mun Street, Fanling"	114.145	22.50027778	832990	840074	NORTH
+Fitness Rooms	Tung Chung Man Tung Road Sports Centre	"G/F., Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung"	113.9438889	22.29055556	812252.7	816872	ISLANDS
+Fitness Rooms	Quarry Bay Sports Centre	"6/F & 7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Quarry Bay"	114.2116667	22.28361111	839866	816090	EASTERN
+Fitness Rooms	Tai Po Sports Centre	"13 Ting Tai Road, Tai Po"	114.165	22.45527778	835035	835097	TAI PO
+Fitness Rooms	Heng On Sports Centre	"4/F., Heng On Commercial Centre, Heng On Estate, Ma On Shan, Sha Tin"	114.2277778	22.41666667	841518	830818	SHA TIN
+Fitness Rooms	Kowloon Park Sports Centre	"22 Austin Road, Tsim Sha Tsui"	114.17	22.30194444	835555.3	818101.6	YAU TSIM MONG
+Fitness Rooms	Tin Fai Road Sports Centre	"No. 63, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T."	113.9969444	22.46472222	817757.1	836155.6	YUEN LONG
+Fitness Rooms	Po Kong Village Road Sports Centre	"120 Po Kong Village Road, Wong Tai Sin"	114.2016667	22.34555556	838814	822930	WONG TAI SIN
+Fitness Rooms	Tai Kok Tsui Sports Centre	"5-7/F., Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui"	114.1627778	22.32194444	834817	820319	YAU TSIM MONG
+Fitness Rooms	Shun Lee Tsuen Sports Centre	"Shun Lee Tsuen Road, Kwun Tong"	114.2255556	22.32972222	841271	821184	KWUN TONG
+Fitness Rooms	Chuk Yuen Sports Centre	"Chuk Yuen North Estate, Chuk Yuen Road, Wong Tai Sin"	114.1936111	22.34555556	837982	822937	WONG TAI SIN
+Fitness Rooms	Mui Wo Sports Centre	"1/F, Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island"	113.9963889	22.26694444	817675	814251	ISLANDS
+Fitness Rooms	Tseung Kwan O Sports Centre	"9 Wan Lung Road, Tseung Kwan O, Sai Kung"	114.2597222	22.31722222	844794	819792	SAI KUNG
+Fitness Rooms	Lam Tin South Sports Centre	"170 Pik Wan Road, Lam Tin, Kwun Tong"	114.2388889	22.30388889	842653	818325	KWUN TONG
+Fitness Rooms	Ma On Shan Sports Centre	"14 On Chun Street, Ma On Shan, Shatin"	114.2294444	22.42611111	841692	831852	SHA TIN
+Fitness Rooms	Tin Shui Wai Sports Centre	"1 Tin Pak Road, Tin Shui Wai, Yuen Long"	114.0066667	22.455	818736	835071	YUEN LONG
+Fitness Rooms	Yuen Wo Road Sports Centre	"4 Yuen Wo Road, Sha Tin"	114.1925	22.38305556	837884	827080	SHA TIN
+Fitness Rooms	Tsui Lam Sports Centre	"Tsui Lam Estate, Sai Kung"	114.2494444	22.32222222	843754	820359	SAI KUNG
+Fitness Rooms	Mei Lam Sports Centre	"Mei Lam Estate Phase III, Tai Wai, Sha Tin"	114.1755556	22.37916667	836126	826653	SHA TIN
+Fitness Rooms	Fu Shin Sports Centre	"Multi Car-Park Building, Fu Shin Estate, Tai Po"	114.1741667	22.45388889	835984	834936	TAI PO
+Fitness Rooms	Sun Yat Sen Memorial Park Sports Centre	"18 Eastern Street North, Sai Ying Pun"	114.1436111	22.29027778	832828	816808	CENTRAL & WESTERN
+Fitness Rooms	Fa Yuen Street Sports Centre	"13/F Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mong Kok"	114.1708333	22.32083333	835632	820197	YAU TSIM MONG

@@ -1,0 +1,101 @@
+Other Recreation & Sports Facilities	Chung Hom Kok Park	"Chung Hom Kok Road, Hong Kong"	114.1977778	22.21055556	838436.2	808006.6	SOUTHERN
+Other Recreation & Sports Facilities	Yee Shing Lane Temporary Sitting Out Area	"Yee Shing Lane, Chai Wan"	114.2377778	22.26416667	842551.2	813922.1	EASTERN
+Other Recreation & Sports Facilities	Central and Western District Promenade?€?Sheung Wan Section	Chung Kong Road Sheung Wan	114.1497222	22.28916667	833472.7	816708.4	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Big Wave Bay Picnic Area	"Big Wave Bay Road, Shek O, Hong Kong"	114.2494444	22.24	843760.1	811263.2	SOUTHERN
+Other Recreation & Sports Facilities	Belcher Bay Park	Opposite at No.38 Kennedy Town Praya	114.1302778	22.28472222	831467	816196.2	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	King's Park Rest Garden	"King's Park Rise, Yau Ma Tei, Kowloon"	114.175	22.31138889	836080.3	819158.3	YAU TSIM MONG
+Other Recreation & Sports Facilities	University Station Cycling Entry/Exit Hub	"University Station, Sha Tin"	114.2105556	22.41444444	839741.7	830559.5	SHA TIN
+Other Recreation & Sports Facilities	Harlech Road Fitness Trail	"Harlech Road, The Peak"	114.1444444	22.27138889	832925.2	814742.9	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Tai Lam Chung Road Children's Playground	"Luen Hong Lane, Tai Lam Chung, Tuen Mun"	114.0211111	22.36361111	820223.1	824948.4	TUEN MUN
+Other Recreation & Sports Facilities	Tai Lam Chung Tsuen Children's Playground	"Tai Lam Chung Road, Tai Lam Chung Tsuen, Tuen Mun"	114.0213889	22.36166667	820249.7	824745.1	TUEN MUN
+Other Recreation & Sports Facilities	On Luk Street Park	"On Luk Street, Ma On Shan"	114.2302778	22.4225	841776.7	831466.4	SHA TIN
+Other Recreation & Sports Facilities	Sheung Shing Street Park	"Princess Margaret Road, Ho Man Tin, Kowloon"	114.1791667	22.31833333	836509.9	819925.3	KOWLOON CITY
+Other Recreation & Sports Facilities	Saigon Street Playground	"J/O Saigon Street / Ferry Street / Canton Road, Kowloon"	114.1680556	22.30805556	835348.8	818783.5	YAU TSIM MONG
+Other Recreation & Sports Facilities	Luen Hing Street Sitting-out Area	"J/O Luen Hing Street & Wo Muk Road, Fanling, N.T."	114.1411111	22.49972222	832601.9	840001.9	NORTH
+Other Recreation & Sports Facilities	Sai Yee Street Garden	"32 Sai Yee Street, Mong Kok, Kowloon"	114.1719444	22.31722222	835753.9	819801.2	YAU TSIM MONG
+Other Recreation & Sports Facilities	Lion Rock Park	"Chuk Yuen Road, Wong Tai Sin, Kowloon"	114.1838889	22.345	836987.9	822874.3	WONG TAI SIN
+Other Recreation & Sports Facilities	Tai Mei Tuk Barbecue Area	Tai Po Tai Mei Tuk Road	114.2327778	22.47138889	842021.7	836875.1	TAI PO
+Other Recreation & Sports Facilities	Green Lane Service Reservoir Sitting-out Area	"Green Lane, Happy Valley, Hong Kong"	114.1861111	22.26388889	837233	813890	WAN CHAI
+Other Recreation & Sports Facilities	"Shui Hau Village Sitting-Out Area, Lantau"	"Shui Hau Village, Lantau Island"	113.9147222	22.22166667	809236.9	809251.5	ISLANDS
+Other Recreation & Sports Facilities	Tai O Road Playground No. 2	"Tai O Road, Lantau Island"	113.8663889	22.2525	804256.4	812662.1	ISLANDS
+Other Recreation & Sports Facilities	Wai Ming Street Garden	"Area 46, Wai Ming Street, Fanling, NT"	114.14	22.48611111	832469.4	838514.1	NORTH
+Other Recreation & Sports Facilities	Sai Sha Road Temporary Pet Garden	At the junction of Sai Sha Road and Hang Fai Street underneath MTRC via duct in Ma On Shan	114.2252778	22.41555556	841238.3	830696.4	SHA TIN
+Other Recreation & Sports Facilities	Po Chu Tam BBQ Area	"Tai O, Lantau Island"	113.8622222	22.25777778	803826.8	813264.7	ISLANDS
+Other Recreation & Sports Facilities	Tsuen Fu Street Garden	"Tsuen Fu Street, Tsuen Wan"	114.1213889	22.36888889	830557	825523.1	TSUEN WAN
+Other Recreation & Sports Facilities	Wah Chui Street Sitting-out Area	"Wah Chui Street, Wah Fu Estate, Hong Kong"	114.1375	22.25388889	832202.9	812795.7	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Pak Fuk Road Safety Town	"Pak Fuk road, North Point"	114.2066667	22.29055556	839325.1	816846.2	EASTERN
+Other Recreation & Sports Facilities	Shan Pui Chung Hau Sitting-out Area	"Shan Pui Chung Hau Tsuen, Shap Pat Heung, Yuen Long"	114.0308333	22.45388889	821228.3	834949	YUEN LONG
+Other Recreation & Sports Facilities	Jockey Club Hing Shing Road Playground	"Hing Shing Road, Kwai Chung, New Territories"	114.1238889	22.35888889	830810	824408.7	KWAI TSING
+Other Recreation & Sports Facilities	Sai Ying Pun Post Office Building Children's Playground	Opposite at No.88 Pokfulam Road	114.1397222	22.28611111	832446.9	816351.1	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Shek Wu Hui Jockey Club Playground	"No. 6, Po Wan Road, Sheung Shui"	114.1261111	22.50611111	831040.4	840725.3	NORTH
+Other Recreation & Sports Facilities	Shek O Headland Picnic Area	"Shek O Headland Road, Shek O, Hong Kong"	114.2575	22.23	844579.7	810151.3	SOUTHERN
+Other Recreation & Sports Facilities	Yau Ma Tei Service Reservoir Rest Garden	"King's Park Rise, Yau Ma Tei, Kowloon"	114.1730556	22.31222222	835866.6	819236.7	YAU TSIM MONG
+Other Recreation & Sports Facilities	Town Park North Children's Playground	"Town Park North Road, Yuen Long"	114.0188889	22.44388889	820008.7	833827.6	YUEN LONG
+Other Recreation & Sports Facilities	Tsing Yu Street Garden	"Tsing Yu Street, Tsing Yi"	114.1013889	22.35472222	828479.5	823947.7	KWAI TSING
+Other Recreation & Sports Facilities	Wo Yi Hop Road Cooked Food Market Roof-top Sitting-out Area	"Wo Yi Hop Road, Kwai Chung, New Territories"	114.1366667	22.36555556	832132.5	825163.4	KWAI TSING
+Other Recreation & Sports Facilities	Shek Yam Lei Muk Road Park	"Lei Muk Road, Kwai Chung, NT"	114.1375	22.37166667	832198.4	825840.4	KWAI TSING
+Other Recreation & Sports Facilities	Hutchison Park	"Dyer Avenue, Hung Hom, Kowloon."	114.1908333	22.3075	837695.9	818736	KOWLOON CITY
+Other Recreation & Sports Facilities	Tsuen Wan Market Roof Top Playground	"Tsuen Wan Market Street, Tsuen Wan"	114.1169444	22.37138889	830104.8	825803	TSUEN WAN
+Other Recreation & Sports Facilities	Ping Shek Sitting-out Area	"New Clear Water Bay Road, Kowloon"	114.2116667	22.33194444	839850.6	821431.2	KWUN TONG
+Other Recreation & Sports Facilities	Yuk Kwai Shan Service Reservoir Sitting-out Area	"Roof Top, Ap Lei Chau No.2 Fresh Water Service Reservoir, Yuk Kwai Shan, Aberdeen"	114.1502778	22.24083333	833514.3	811333.6	SOUTHERN
+Other Recreation & Sports Facilities	Kwei Tei Street Garden	"Kwei Tei Street, Fo Tan, Sha Tin"	114.1911111	22.4	837728.3	828955.5	SHA TIN
+Other Recreation & Sports Facilities	Yuet Wah Street Playground	"Yuet Wah Street, Kwun Tong, Kowloon"	114.2269444	22.315	841413	819567	KWUN TONG
+Other Recreation & Sports Facilities	Hung Leng Children's Playground	"Hung Leng, N.T."	114.1672222	22.51472222	835277.4	841686.9	NORTH
+Other Recreation & Sports Facilities	Kwun Tong High Level Service Reservoir Playground	"Jordon Valley, Kwun Tong, Kowloon"	114.2233333	22.32416667	841051.8	820577.1	KWUN TONG
+Other Recreation & Sports Facilities	Dragon Park	"Tin Lung Road, Tin Shui Wai, Yuen Long"	114.0058333	22.46	818661.6	835609.2	YUEN LONG
+Other Recreation & Sports Facilities	Tsing Yi Promenade	"Nga Ying Chau Street, Tsing Yi"	114.1088889	22.35722222	829259.7	824246.2	KWAI TSING
+Other Recreation & Sports Facilities	Wu Shan Riverside Park	"Nullah from Sun Tuen Mun Centre to Lung Mun Oasis, Area 18, Lung Mun Road, Tuen Mun"	113.9666667	22.3825	814627.5	827039.2	TUEN MUN
+Other Recreation & Sports Facilities	Yau Tsim Mong Pet Garden	"J/O Ferry Street / Yan Cheung Road, Kowloon"	114.1672222	22.30861111	835281	818858	YAU TSIM MONG
+Other Recreation & Sports Facilities	Tuen Mun Recreation and Sports Centre Archery Range cum Gateball Court	"54 Lung Mun Road, Tuen Mun, N.T."	113.9627778	22.38194444	814220	826999.6	TUEN MUN
+Other Recreation & Sports Facilities	Wong Nai Chung Reservoir Park	"Tai Tam Reservoir Road, Wong Nai Chung, Hong Kong"	114.1941667	22.25666667	838050	813105.2	SOUTHERN
+Other Recreation & Sports Facilities	Tunnel Approach Rest Garden	"Gloucester Road, Wan Chai"	114.1805556	22.28138889	836637.3	815840.9	WAN CHAI
+Other Recreation & Sports Facilities	Butterfly Valley Road Pet Garden	"No. 2 Butterfly Valley Road, Sham Shui Po"	114.1444444	22.33888889	832932.3	822214.3	WONG TAI SIN
+Other Recreation & Sports Facilities	Mui Shue Hang Playground	Tai Po Mui Shue Hang Road	114.1525	22.45444444	833758.3	834986.3	TAI PO
+Other Recreation & Sports Facilities	Pau Cheung Square Playground	"Pau Cheung Square, Yuen Long"	114.0297222	22.44555556	821107	834012.6	YUEN LONG
+Other Recreation & Sports Facilities	Kei Lun Wai Children's Playground	"Tsing Lun Road, Kei Lun Wai, Tuen Mun"	113.9758333	22.41222222	815563.7	830326.9	TUEN MUN
+Other Recreation & Sports Facilities	Ferry Street Playground	"230 Ferry Street, Kowloon"	114.1672222	22.31388889	835280	819420.7	YAU TSIM MONG
+Other Recreation & Sports Facilities	North Point Market Roof-top Children's Playground	"Pak Fuk Road, North Point"	114.2055556	22.29138889	839225.3	816930.5	EASTERN
+Other Recreation & Sports Facilities	Green Education and Resources Centre	"Floor 1 Kowloon Park Management Office, 22 Austin Road, Tsim Sha Tsui, Kowloon"	114.1702778	22.30194444	835599	818103	YAU TSIM MONG
+Other Recreation & Sports Facilities	Tai Hang Drive Sitting-out Area	"Tai Hang Drive, Wan Chai, Hong Kong (adjacent to the junction of Tai Hang Drive and Chun Fai Road)"	114.1933333	22.27361111	837964	814981.1	WAN CHAI
+Other Recreation & Sports Facilities	Kwai Shun Street Playground	"Kwai Shun Street, Kwai Chung, New Territories"	114.1244444	22.35444444	830857.2	823917.8	KWAI TSING
+Other Recreation & Sports Facilities	Siu Sai Wan Road Garden	"Siu Sai Wan Road, Chai Wan"	114.2477778	22.26611111	843583	814139.7	EASTERN
+Other Recreation & Sports Facilities	Sha Tin Road Safety Park	"1 Kong Pui Street, Sha Tin"	114.1961111	22.38083333	838235.9	826840.2	SHA TIN
+Other Recreation & Sports Facilities	Central Conservation Section Resource Centre	"Room 202, 2/F, Hong Kong Museum of History, 100 Chatham Road South, Tsim Sha Tsui East, Kowloon, Hong Kong"	114.1775	22.30166667	836323	818089	YAU TSIM MONG
+Other Recreation & Sports Facilities	Morse Park (Park No. 1)	"Tai Tung Street, Wong Tai Sin, Kowloon"	114.1938889	22.33666667	838016.8	821964	WONG TAI SIN
+Other Recreation & Sports Facilities	"Wong Ka Wai Sitting-Out Area, Tung Chung"	"Wong Ka Wai, Tung Chung Road, Tung Chung, Lantau Island"	113.9347222	22.27722222	811323.9	815385.2	ISLANDS
+Other Recreation & Sports Facilities	Kwai Chung Castle Peak Road Sitting-out Area	"Castle Peak Road, Kwai Chung, New Territories"	114.1338889	22.36916667	831845.9	825543.2	KWAI TSING
+Other Recreation & Sports Facilities	Hung Ling Street Sitting-out Area	"Hung Ling Street, Hung Hom, Kowloon"	114.1838889	22.30555556	836984	818525.1	YAU TSIM MONG
+Other Recreation & Sports Facilities	Wo Yi Hop Road Garden	"Wo Yi Hop Road, Tsuen Wan"	114.1361111	22.3725	832072.3	825939.7	TSUEN WAN
+Other Recreation & Sports Facilities	Ap Lei Chau Wind Tower Park	"Lei Chi Road, Ap Lei Chau, Hong Kong"	114.1525	22.24472222	833761	811779.8	SOUTHERN
+Other Recreation & Sports Facilities	Wong Chuk Hang Service Reservoir Rest Garden	"Roof Top, Wong Chuk Hang Service Reservoir, Aberdeen, Hong Kong"	114.1675	22.24333333	835290.3	811634.4	SOUTHERN
+Other Recreation & Sports Facilities	Shing Mun River Promenade Garden No. 3	"Yuen Wo Road, Sha Tin"	114.1991667	22.39222222	838570.1	828118.3	SHA TIN
+Other Recreation & Sports Facilities	Victoria Peak Garden	Opposite at No. 40 Mount Austin Road	114.1441667	22.27388889	832885.6	814990.1	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Cheung Wan Street Rest Garden	"Cheung Wan Street, Tsing Yi"	114.1088889	22.35194444	829254.4	823637.6	KWAI TSING
+Other Recreation & Sports Facilities	San Sang Tsuen Sitting-out Area	"San Sang Tsuen, Tin Ha Road, Ha Tsuen, Yuen Long"	113.9902778	22.44111111	817070.1	833525.4	YUEN LONG
+Other Recreation & Sports Facilities	Yuen Chau Tsai Park	Tai Po Island House Lane	114.1775	22.44777778	836322.3	834267.2	TAI PO
+Other Recreation & Sports Facilities	Lo Tik Wan Barbecue Area	"Lo Tik Wan, Lamma"	114.1261111	22.22388889	831044	809456.8	ISLANDS
+Other Recreation & Sports Facilities	Bowen Road Fitness Trail	"Bowen Road, Wan Chai, Hong Kong"	114.1694444	22.27388889	835488.9	814998.7	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Yuen Shin Park	Tai Po Yuen Shin Road	114.1766667	22.45194444	836249.9	834733.6	TAI PO
+Other Recreation & Sports Facilities	Kwun Tong Ferry Pier Square	J/O Hoi Yuen Road/Wai Yip StreetKwun Tong	114.2227778	22.30777778	840994.4	818746.9	KWUN TONG
+Other Recreation & Sports Facilities	Magazine Gap Service Reservoir Playground	Opposite at Magazine Gap Towers & Magazine Gap Road	114.1641667	22.27138889	834948.3	814729	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Morrison Hill Road Playground	"Sung Tak Street/ Morrison Hill Road, Wan Chai"	114.1791667	22.27555556	836513.6	815174.6	WAN CHAI
+Other Recreation & Sports Facilities	Lok Shun Path Barbecue Area	"Lok Shun Path, Sha Tin"	114.1994444	22.39888889	838579.8	828845.8	SHA TIN
+Other Recreation & Sports Facilities	"Tai Peng San Chuen Sitting-out Area/Tai Peng San Chuen Rainshelter, North Lamma"	"Tai Peng San Chuen, North Lamma"	114.1152778	22.22888889	829924.4	810010.3	ISLANDS
+Other Recreation & Sports Facilities	Kong Pui Street Rest Garden	"Session 5, Kong Pui Street Rest Garden, Shatin"	114.1991667	22.37888889	838555.3	826631.5	SHA TIN
+Other Recreation & Sports Facilities	Waterfall Bay Park	"Waterfall Bay Road, Wah Fu Estate, Aberdeen, Hong Kong"	114.1338889	22.25194444	831823.9	812590	SOUTHERN
+Other Recreation & Sports Facilities	Shum Wan Road Sitting-out Area	"Shum Wan Road, Wong Chuk Hang, Aberdeen, Hong Kong"	114.1652778	22.245	835084.5	811800.7	SOUTHERN
+Other Recreation & Sports Facilities	Tai Wong Ha Playground	"Fung Shue Wo Road, Tsing Yi"	114.1019444	22.35388889	828554.9	823872.3	KWAI TSING
+Other Recreation & Sports Facilities	Laguna Park	"Cha Kwo Ling Road, Kwun Tong, Kowloon"	114.2269444	22.30722222	841418.3	818706.8	KWUN TONG
+Other Recreation & Sports Facilities	"Tung Wan Barbecue Area, Peng Chau"	"Tung Wa, Peng Chau"	114.04	22.28694444	822158.2	816467.4	ISLANDS
+Other Recreation & Sports Facilities	Sau Mau Ping Road Safety Town	"No. 56, Sau Mau Ping Road, Sau Mau Ping, Kwun Tong"	114.2311111	22.32083333	841852	820198.5	KWUN TONG
+Other Recreation & Sports Facilities	Cheung Po Chai Cave Picnic Area	"Cheung Po Chai Road, Cheung Chau"	114.0183333	22.20083333	819911.4	806921	ISLANDS
+Other Recreation & Sports Facilities	Tong Fuk Barbecue Area	"Tong Fuk, Lantau Island"	113.9338889	22.22666667	811212.2	809793.4	ISLANDS
+Other Recreation & Sports Facilities	Tan Chuk Hang Children's Playground	"Tan Chuk Hang , N.T."	114.1752778	22.51361111	836116.3	841547	NORTH
+Other Recreation & Sports Facilities	Fan Wa Street Temporary Sitting-out Area	"Fan Wa Street ,Cha Kwo Ling, Kwun Tong, Kowloon"	114.2275	22.30361111	841495.7	818297.6	KWUN TONG
+Other Recreation & Sports Facilities	Circle Park	"Castle Peak Road, Tsuen Wan"	114.1227778	22.37	830699.5	825650.2	TSUEN WAN
+Other Recreation & Sports Facilities	Central and Western District Promenade ?€? Central Section	"Lung Wo Road, Admiralty"	114.1663889	22.28277778	835192.4	815987.8	CENTRAL & WESTERN
+Other Recreation & Sports Facilities	Tiu Keng Leng Temporary Cycling Park	"At the junction of Chui Ling Road and Po Shun Road of Area 74, Tseung Kwan O"	114.2552778	22.30583333	844344.8	818557.7	SAI KUNG
+Other Recreation & Sports Facilities	Wing Fong Street Market Roof-top Children's Playground	"Wing Fong Road, Kwai Chung, New Territories"	114.1272222	22.36083333	831167.6	824629	KWAI TSING
+Other Recreation & Sports Facilities	Sheung Wo Hang Children's Playground	"Sheung Wo Hang , N.T."	114.1947222	22.52388889	838111.5	842689.6	NORTH
+Other Recreation & Sports Facilities	Kwong Fai Circuit Playground	"Kwong Fai Circuit, Kwai Chung, New Territories"	114.1330556	22.36805556	831761.7	825422.6	KWAI TSING
+Other Recreation & Sports Facilities	Bowrington Road Market Roof-top Children's Playground	"Wan Chai Road, Wan Chai"	114.1802778	22.27861111	836608.3	815512.8	WAN CHAI

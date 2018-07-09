@@ -1,0 +1,56 @@
+"Parks, Zoos and Gardens"	Wai Lok Street Temporary Soccer Pitch	"Wai Yip Street and Wai Lok Street junction, Kwun Tong, Kowloon (near Laguna Park)"	114.2261111	22.30388889	841333.7	818336.3	KWUN TONG
+"Parks, Zoos and Gardens"	Fung Tak Park	"42, Fung Tak Road, Wong Tai Sin, Kowloon"	114.1980556	22.3425	838449.9	822589.4	WONG TAI SIN
+"Parks, Zoos and Gardens"	Tin Shui Wai Park	"6 Tin Shui Road, Tin Shui Wai, Yuen Long"	114.0033333	22.45555556	818418	835143	YUEN LONG
+"Parks, Zoos and Gardens"	Oaklands Avenue Sitting-out Area	"Oaklands Avenue, Mid-level"	114.1436111	22.28305556	832836.6	816006	CENTRAL & WESTERN
+"Parks, Zoos and Gardens"	Hoi Wong Road Garden	"Hoi Wong Road, Tuen Mun (Next to Tuen Mun Swimming Pool)"	113.9702778	22.38555556	814989.2	827384.7	TUEN MUN
+"Parks, Zoos and Gardens"	Tsuen Wan Riviera Park	"2A Yi Hong Street, Tsuen Wan"	114.1122222	22.36333333	829602	824915	TSUEN WAN
+"Parks, Zoos and Gardens"	Po Kong Village Road / Shung Wah Street Sitting-out Area	J/O Po Kong Village Road / Shung Wah Street	114.1997222	22.34583333	838608	822975.4	WONG TAI SIN
+"Parks, Zoos and Gardens"	Tin Yip Road Park	"Tin Yip Road, Tin Shui Wai"	114.0075	22.46333333	818830.2	835981.4	YUEN LONG
+"Parks, Zoos and Gardens"	Po Lam Sitting-Out Area	"Po Lam Road North, Tseung Kwan O, Sai Kung"	114.2538889	22.32722222	844214.5	820914	SAI KUNG
+"Parks, Zoos and Gardens"	Ap Lei Chau Waterfront Promenade	"Ping Lan Street, Ap Lei Chau, Hong Kong"	114.1555556	22.24472222	834058.3	811786.1	SOUTHERN
+"Parks, Zoos and Gardens"	Sha Tin Park	"2 Yuen Wo Road, Shatin"	114.19	22.37944444	837606.7	826698.3	SHA TIN
+"Parks, Zoos and Gardens"	Sai Kung Waterfront Park	"Wai Man Road, Sai Kung"	114.2747222	22.3825	846336.7	827041.1	SAI KUNG
+"Parks, Zoos and Gardens"	Ngau Tau Kok Park	"199 Kwun Tong Road, Kowloon"	114.215	22.32305556	840197.6	820441.4	KWUN TONG
+"Parks, Zoos and Gardens"	Shing Mun Valley Park	"Shing Mun Road, Tsuen Wan"	114.125	22.37472222	830933	826174	TSUEN WAN
+"Parks, Zoos and Gardens"	North Point Promenade	"North Point Ferry Pier, Hong Kong"	114.2013889	22.29361111	838804.7	817174.3	EASTERN
+"Parks, Zoos and Gardens"	Tamar Park	"Harcourt Road, Admiralty"	114.1655556	22.28138889	835103.9	815831.5	CENTRAL & WESTERN
+"Parks, Zoos and Gardens"	Middle Road Children's Playground	"Middle Road, Tsim Sha Tsui, Kowloon"	114.1741667	22.29527778	835981.5	817387.9	YAU TSIM MONG
+"Parks, Zoos and Gardens"	Lion Rock Park	"Chuk Yuen Road, Wong Tai Sin, Kowloon"	114.1838889	22.34472222	836986.3	822861.7	WONG TAI SIN
+"Parks, Zoos and Gardens"	Quarry Bay Promenade	"Hoi Yu Street, Quarry Bay"	114.2144444	22.29027778	840131.9	816832.7	EASTERN
+"Parks, Zoos and Gardens"	Kowloon Walled City Park	"Tung Tsing Road,Kowloon City"	114.1897222	22.33166667	837602.4	821401.2	KOWLOON CITY
+"Parks, Zoos and Gardens"	Tai Ping Village Playground	"Po Lo Che Road, Sai Kung"	114.2622222	22.38055556	845051.1	826823.9	SAI KUNG
+"Parks, Zoos and Gardens"	Tai Po Waterfront Park	"Dai Fat Street, Tai Po"	114.1788889	22.45194444	836487.3	834708.4	TAI PO
+"Parks, Zoos and Gardens"	Hong Kong Park	"19 Cotton Tree Drive, Central"	114.1613889	22.27722222	834672	815383	CENTRAL & WESTERN
+"Parks, Zoos and Gardens"	Ma On Shan Promenade	"Ning Tai Road, Ma On Shan"	114.2202778	22.40888889	840750.5	829948	SHA TIN
+"Parks, Zoos and Gardens"	Tung Chung North Park	"No. 29 Man Tung Road, Tung Chung"	113.9488889	22.29083333	812774	816896.3	ISLANDS
+"Parks, Zoos and Gardens"	Ap Lei Chau Wind Tower Park	"Lei Chi Road, Ap Lei Chau, Hong Kong"	114.1530556	22.24472222	833802.6	811762.6	SOUTHERN
+"Parks, Zoos and Gardens"	Shek Kip Mei Park	"270 Nam Cheong Street, Sham Shui Po"	114.1711111	22.33861111	835661	822169	SHAM SHUI PO
+"Parks, Zoos and Gardens"	Hong Kong Zoological & Botanical Gardens	"Albany Road, Central & Western"	114.1558333	22.27777778	834109	815425	CENTRAL & WESTERN
+"Parks, Zoos and Gardens"	Tuen Mun Park	"Tuen Mun Heung Sze Wui Road, Tuen Mun"	113.9733333	22.39194444	815319.5	828090.2	TUEN MUN
+"Parks, Zoos and Gardens"	Nam Cheong Park	"20 Sham Mong Road, Kowloon"	114.1575	22.32416667	834262.8	820563.6	SHAM SHUI PO
+"Parks, Zoos and Gardens"	Tsing Yi Park	"Tsing Luk Street, Tsing Yi"	114.1058333	22.35611111	828954.6	824116.8	KWAI TSING
+"Parks, Zoos and Gardens"	Ngau Chi Wan Park	"71 Fung Shing Street, Ngau Chi Wan, Wong Tai Sin"	114.2138889	22.33611111	840072.2	821899.4	WONG TAI SIN
+"Parks, Zoos and Gardens"	Nan Lian Garden	"Fung Tak Road, Diamond Hill, Wong Tai Sin"	114.2044444	22.33916667	839116.5	822229	WONG TAI SIN
+"Parks, Zoos and Gardens"	Cornwall Street Park	"17 Cornwall Street, Kowloon Tong, Kowloon"	114.1738889	22.33888889	835970.9	822201	SHAM SHUI PO
+"Parks, Zoos and Gardens"	West Kowloon Waterfront Promenade	West Kowloon Reclamation Area (J/O Austin Road West/ Nga Cheung Road)	114.1544444	22.30083333	833969.6	817973.1	YAU TSIM MONG
+"Parks, Zoos and Gardens"	Wan Po Road Pet Garden	"Wan Po Road, Tseung Kwan O, Sai Kung"	114.2688889	22.305	845745.7	818455.3	SAI KUNG
+"Parks, Zoos and Gardens"	Ap Lei Chau Park	"Ap Lei Chau Main Street, Aberdeen, Hong Kong"	114.1577778	22.245	834309.5	811819	SOUTHERN
+"Parks, Zoos and Gardens"	Kowloon Park	"22 Austin Road, Tsim Sha Tsui"	114.1702778	22.3	835581.3	817908.8	YAU TSIM MONG
+"Parks, Zoos and Gardens"	Po Tsui Park	"Po Hong Road, Tseung Kwan O"	114.2530556	22.325	844110	820668	SAI KUNG
+"Parks, Zoos and Gardens"	Tsuen Wan Park	"59 Wing Shun Street, Tsuen Wan"	114.1127778	22.36722222	829671	825329	TSUEN WAN
+"Parks, Zoos and Gardens"	Hong Kong Velodrome Park	"105-107 Po Hong Road, Tseung Kwan O"	114.2611111	22.31416667	844935	819464.2	SAI KUNG
+"Parks, Zoos and Gardens"	Yuen Po Street Bird Garden	"Yuen Po Street, Mongkok"	114.1738889	22.32583333	835951.6	820749.9	YAU TSIM MONG
+"Parks, Zoos and Gardens"	Jordan Valley Park	"No.71, New Clear Water Bay Road"	114.2219444	22.32972222	840897	821201	KWUN TONG
+"Parks, Zoos and Gardens"	Victoria Park	"Causeway Road, Causeway Bay"	114.1883333	22.2825	837438	815965	EASTERN
+"Parks, Zoos and Gardens"	Tsing Yi Northeast Park	"10, Tam Kon Shan Road, Tsing Yi"	114.0988889	22.3625	828227.8	824803.3	KWAI TSING
+"Parks, Zoos and Gardens"	Quarry Bay Park	"Near Hoi Tai Street, Quarry Bay"	114.2155556	22.28833333	840251	816612.2	EASTERN
+"Parks, Zoos and Gardens"	San Ha Street Playground	San Ha Street	114.2447222	22.26444444	843265.3	813948.3	EASTERN
+"Parks, Zoos and Gardens"	North District Park	"Jockey Club Road, Sheung Shui"	114.1341667	22.49888889	831867.8	839924.2	NORTH
+"Parks, Zoos and Gardens"	Ma On Shan Park	"12 On Chun Street, Ma On Shan"	114.2311111	22.42722222	841859.3	831992.7	SHA TIN
+"Parks, Zoos and Gardens"	Tseung Kwan O Waterfront Park	"Tong Chun Street, Tseung Kwan O, Sai Kung"	114.2613889	22.30194444	844979.7	818126	SAI KUNG
+"Parks, Zoos and Gardens"	Chai Wan Park	"Chai Wan Park, Tsui Wan Street, Chai Wan"	114.2386111	22.26638889	842618.3	814162.8	EASTERN
+"Parks, Zoos and Gardens"	Wong Nai Chung Road Crescent Garden	"Wong Nai Chung Road, Happy Valley, Hong Kong"	114.1841667	22.27027778	837031.8	814596.9	WAN CHAI
+"Parks, Zoos and Gardens"	Central Kwai Chung Park	"San Kwai Street, Kwai Chung"	114.1330556	22.35722222	831741.1	824230	KWAI TSING
+"Parks, Zoos and Gardens"	Lai Chi Kok Park	"1 Lai Wan Road, Lai Chi Kok"	114.1369444	22.33944444	832158.8	822267.6	SHAM SHUI PO
+"Parks, Zoos and Gardens"	Po Hong Park	"Wan Lung Road, Tseung Kwan O"	114.2577778	22.31888889	844591	819977	SAI KUNG
+"Parks, Zoos and Gardens"	Yuen Long Park	"Town Park Road North, Yuen Long"	114.0188889	22.4425	820009	833684	YUEN LONG

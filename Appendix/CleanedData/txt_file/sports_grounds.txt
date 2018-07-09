@@ -1,0 +1,28 @@
+Sports Grounds	Aberdeen Sports Ground	"108 Wong Chuk Hang Road, Aberdeen"	114.1719444	22.24944444	835756	812294	SOUTHERN
+Sports Grounds	Tai Po Sports Ground	"21 Tai Po Tau Road, Tai Po"	114.1625	22.45527778	834793	835099.8	TAI PO
+Sports Grounds	Fanling Recreation Ground	"San Wan Road, Fanling"	114.1377778	22.49361111	832233	839321	NORTH
+Sports Grounds	Wan Chai Sports Ground	"20 Tonnochy Road, Wan Chai"	114.1777778	22.28138889	836364	815835	WAN CHAI
+Sports Grounds	Siu Sai Wan Sports Ground	"8 Fu Hong Street, Siu Sai Wan"	114.2488889	22.2675	843688	814302	EASTERN
+Sports Grounds	Kowloon Bay Sports Ground	"1 Kai Lok Street, Kowloon Bay"	114.2097222	22.32694444	839662.4	820885	KWUN TONG
+Sports Grounds	Causeway Bay Sports Ground	"Causeway Road, Causeway Bay"	114.1905556	22.28055556	837686	815735	WAN CHAI
+Sports Grounds	Shau Kei Wan Service Reservoir Playground	"Yiu Hing Road, Shau Kei Wan"	114.2177778	22.2825	840484.6	815950.3	EASTERN
+Sports Grounds	Sha Tin Sports Ground	"18 Yuen Wo Road, Sha Tin"	114.1975	22.38777778	838385.5	827601.1	SHA TIN
+Sports Grounds	A Kung Kok Basketball Court	"Ah Kung Kok Fishermen Village, A Kung Kok Street, Sha Tin, NT"	114.2155556	22.40194444	840253.5	829179.9	SHA TIN
+Sports Grounds	Kowloon Tsai Sports Ground	"Inverness Road, Kowloon City"	114.1841667	22.33055556	837018	821286	KOWLOON CITY
+Sports Grounds	North District Sports Ground	"26 Tin Ping Road, Sheung Shui"	114.1305556	22.50638889	831507.7	840737.7	NORTH
+Sports Grounds	Tin Shui Wai Sports Ground	"2 Tin Shui Road, Tin Shui Wai, Yuen Long."	114.005	22.45472222	818575	835027	YUEN LONG
+Sports Grounds	Yuen Long Stadium	"6 Tai Yuk Road, Yuen Long"	114.0213889	22.4425	820250.1	833674.8	YUEN LONG
+Sports Grounds	Ma On Shan Sports Ground	"1 Hang Hong Street, Ma On Shan, Sha Tin"	114.2283333	22.42083333	841566	831284	SHA TIN
+Sports Grounds	Cheung Chau Sports Ground	"Fa Ping Road, Cheung Chau"	114.0330556	22.20666667	821430.4	807558.4	ISLANDS
+Sports Grounds	Tseung Kwan O Sports Ground	"109 Po Hong Road, Tseung Kwan O"	114.2636111	22.31222222	845199.8	819241.9	SAI KUNG
+Sports Grounds	Wo Yi Hop Road Sports Ground	"298 Wo Yi Hop Road, Kwai Chung"	114.1369444	22.37416667	832153.9	826099.7	KWAI TSING
+Sports Grounds	Shing Mun Valley Sports Ground	"Shing Mun Road, Tsuen Wan"	114.1280556	22.37694444	831235.2	826402.8	TSUEN WAN
+Sports Grounds	Siu Lun Sports Ground	"Siu Lun Street, Tuen Mun"	113.9780556	22.385	815788.7	827316.7	TUEN MUN
+Sports Grounds	Tsing Yi Sports Ground	"Tsing King Road, Tsing Yi"	114.1080556	22.35611111	829188	824119.9	KWAI TSING
+Sports Grounds	Sai Kung Tang Shiu Kin Sports Ground	"Fuk Man Road, Sai Kung"	114.2733333	22.38361111	846198.9	827168.4	SAI KUNG
+Sports Grounds	Kwai Chung Sports Ground	"93 Hing Shing Road, Kwai Chung"	114.1252778	22.35833333	830954.3	824360	KWAI TSING
+Sports Grounds	Perth Street Sports Ground	"Shek Ku Street, Ho Man Tin"	114.1811111	22.32055556	836701	820176	KOWLOON CITY
+Sports Grounds	Sham Shui Po Sports Ground	"3 Hing Wah Street, Cheung Sha Wan"	114.1525	22.33694444	833756.5	822000.3	SHAM SHUI PO
+Sports Grounds	Chui Ling Lane Playground	"Choi Ming Street, Tseung Kwan O"	114.2508333	22.30416667	843879.7	818363.6	SAI KUNG
+Sports Grounds	Tuen Mun Tang Shiu Kin Sports Ground	"Tsing Chung Koon Road, Tuen Mun"	113.9741667	22.40388889	815406.1	829421.9	TUEN MUN
+Sports Grounds	Hammer Hill Road Sports Ground	"158 Hammer Hill Road, Wong Tai Sin"	114.2072222	22.33833333	839407	822136	WONG TAI SIN

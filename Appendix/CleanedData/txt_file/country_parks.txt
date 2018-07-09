@@ -1,0 +1,24 @@
+Country Parks	Tai Tam Country Park		114.2083333	22.24777778	839500	812105
+Country Parks	Clear Water Bay Country Park		114.2961111	22.29555556	848550	817395
+Country Parks	Lantau North Country Park		113.9086111	22.26638889	808630	814185
+Country Parks	Lantau South Country Park		113.9397222	22.25222222	811810	812615
+Country Parks	Sai Kung East Country Park		114.3538889	22.40027778	854500	829005
+Country Parks	Lung Fu Shan Country Park		114.1347222	22.27722222	831930	815365
+Country Parks	Plover Cove (Extension) Country Park		114.3113889	22.51388889	850120	841585
+Country Parks	Tai Lam Country Park		114.0480556	22.39111111	823000	828005
+Country Parks	Tai Mo Shan Country Park		114.1258333	22.41833333	831000	831005
+Country Parks	Kam Shan Country Park		114.1502778	22.3625	833520	824805
+Country Parks	Lam Tsuen Country Park		114.0916667	22.45888889	827500	835505
+Country Parks	Kiu Tsui Country Park		114.2936111	22.36583333	848300	825185
+Country Parks	Lion Rock Country Park		114.1819444	22.35972222	836800	824505
+Country Parks	Pok Fu Lam Country Park		114.1436111	22.26527778	832830	814055
+Country Parks	Shek O Country Park		114.2422222	22.23777778	843000	811005
+Country Parks	Sai Kung West Country Park		114.3077778	22.43472222	849730	832815
+Country Parks	Aberdeen Country Park		114.1663889	22.25944444	835200	813405
+Country Parks	Sai Kung West Country Park (Wan Tsai Ext.)		114.3413889	22.46944444	853210	836655
+Country Parks	Plover Cove Country Park		114.2666667	22.49972222	845500	840005
+Country Parks	Ma On Shan Country Park		114.2461111	22.38055556	843400	826805
+Country Parks	Tai Tam Country Park (Quarry Bay Ext.)		114.2163889	22.27388889	840350	814995
+Country Parks	Pat Sin Leng Country Park		114.2136111	22.49638889	840050	839635
+Country Parks	Shing Mun Country Park		114.1469444	22.39944444	833200	828905
+Country Parks	Lantau North (Extension) Country Park		113.9608333	22.28555556	814000	816305

@@ -1,0 +1,299 @@
+Basketball Courts	Ting Kok Village Children's Playground	"Ting Kok Village, Tai Po, N.T."	114.2194444	22.47333333	840648.5	837083.4	TAI PO
+Basketball Courts	Ngau Pei Sha Street Playground	"Ngau Pei Sha Street, Sha Tin"	114.2063889	22.3825	839300	827040	SHA TIN
+Basketball Courts	Hiu Kwong Street Recreation Ground	"Hiu Kwong Street, Kwun Tong"	114.2313889	22.31694444	841872	819782	KWUN TONG
+Basketball Courts	Tsun Yip Street Playground	"Tsun Yip Street, Kwun Tong"	114.2219444	22.31194444	840909.4	819213.8	KWUN TONG
+Basketball Courts	North Kwai Chung Tang Shiu Kin Sports Centre	"292 Wo Yi Hop Road, Kwai Chung"	114.1375	22.37388889	832218.8	826076.4	KWAI TSING
+Basketball Courts	Tai O Recreation Ground	"Shek Tsai Po, Tai O, Lantau"	113.8591667	22.255	803520	812935	ISLANDS
+Basketball Courts	Wong Nai Chung Sports Centre	"4/F,Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley"	114.1858333	22.26888889	837183	814457	WAN CHAI
+Basketball Courts	Chow Tin Tsuen Children's Playground	"Chow Tin Village, Ping Che Road, Ta Kwu Ling, N.T."	114.1447222	22.53611111	832948.5	844051.9	NORTH
+Basketball Courts	Ap Lei Chau Sports Centre	"8 Hung Shing Street, Apleichau"	114.1555556	22.24444444	834056	811748	SOUTHERN
+Basketball Courts	Tsuen Wan West Sports Centre	"68 Hoi On Road, Tsuen Wan"	114.1005556	22.37055556	828403	825702	TSUEN WAN
+Basketball Courts	Fa Hui Park	"101 Boundary Street, Sham Shui Po"	114.1744444	22.32777778	836020	820975	SHAM SHUI PO
+Basketball Courts	Fat Kwong Street Sports Centre	"18 Good Shepherd Street, Ho Man Tin"	114.1811111	22.31472222	836704	819538	KOWLOON CITY
+Basketball Courts	Tai Wo Hau Sports Centre	"39 Tai Ha Street, Tai Wo Hau, Kwai Chung"	114.125	22.37027778	830920.2	825670.1	KWAI TSING
+Basketball Courts	Yau Oi Sports Centre	"3 Hing On Lane, Tuen Mun"	113.9716667	22.38555556	815149.4	827373.5	TUEN MUN
+Basketball Courts	Fanling Recreation Ground	"San Wan Road, Fanling"	114.1377778	22.49361111	832233	839321	NORTH
+Basketball Courts	To Kwa Wan Sports Centre	"66 Ha Heung Road, To Kwa Wan"	114.19	22.31888889	837633	819983	KOWLOON CITY
+Basketball Courts	Tin Chiu Street Playground	"Tin Chiu Street, North Point"	114.2027778	22.2925	838925	817077	EASTERN
+Basketball Courts	Lei Yue Mun Sports Centre	"2/F to 5/F of Lei Yue Mun Municipal Services Building, Yau Tong, Kowloon"	114.2386111	22.29194444	842637	817018	KWUN TONG
+Basketball Courts	Liu Pok Playground	"Liu Pok Village, Sheung Shui, N.T."	114.1058333	22.52694444	828969.3	843042.8	NORTH
+Basketball Courts	Tin Shui Wai Park	"6 Tin Shui Road, Tin Shui Wai, Yuen Long"	114.0033333	22.45555556	818418	835143	YUEN LONG
+Basketball Courts	Ping Shan Tin Shui Wai Sports Centre	"1, Tsui Sing Road, Tin Shui Wai, Yuen Long"	114.0047222	22.4475	818540.4	834227.5	YUEN LONG
+Basketball Courts	Shek Kip Mei Park Sports Centre	"290 Nam Cheong Street, Shek Kip Mei"	114.17	22.33722222	835556	822025	SHAM SHUI PO
+Basketball Courts	Shek Kip Mei Service Reservoir Playground	"Lung Cheung Road, Sham Shui Po"	114.1663889	22.34111111	835183.6	822441.7	SHAM SHUI PO
+Basketball Courts	San Uk Ling Basketball Court	"San Uk Ling Village, Lin Ma Hang Road, Ta Kwu Ling, N.T."	114.1333333	22.535	831799.5	843926.4	NORTH
+Basketball Courts	Basel Road Playground	"Basel Road, Shau Kei Wan"	114.2316667	22.28166667	841920.8	815855.5	EASTERN
+Basketball Courts	Tsing Yi Sports Centre	"2/F, Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi"	114.1063889	22.35416667	829020	823899.9	KWAI TSING
+Basketball Courts	Ping Long Playground	"Ping Long Village, Lam Kam Road, Tai Po, N.T."	114.1316667	22.44416667	831616.2	833867.1	TAI PO
+Basketball Courts	Sha Shan Tsuen Children's Playground	"She Shan Tsuen, Lam Kam Road, Tai Po, N.T."	114.145	22.45083333	832995.5	834585.9	TAI PO
+Basketball Courts	Aberdeen Sports Centre	"6/F Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen"	114.1544444	22.24944444	833947	812311	SOUTHERN
+Basketball Courts	North Point S/R Playground	"Tin Hau Temple Road, North Point"	114.2008333	22.28805556	838737	816561	EASTERN
+Basketball Courts	Factory Street Playground	"Factory Street, Shau Kei Wan"	114.23	22.27666667	841755	815320	EASTERN
+Basketball Courts	Hang Tau Tsuen Playground	"Hang Tau Tsuen, Ping Shan, Yuen Long"	114.0075	22.445	818843.7	833974.9	YUEN LONG
+Basketball Courts	Lower Cheung Sha Village Basketball Court	"Lower Cheung Sha Village, Lantau Island"	113.9583333	22.23277778	813750.1	810458.4	ISLANDS
+Basketball Courts	Hang Hau Sports Centre	"1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O."	114.2683333	22.31722222	845681	819800.3	SAI KUNG
+Basketball Courts	Tokwawan Recreation Ground	66 Ha Heung Road	114.1905556	22.31916667	837683.8	820027.9	KOWLOON CITY
+Basketball Courts	Carpenter Road Park	"Junction Road, Kowloon"	114.1908333	22.33111111	837693.1	821346	KOWLOON CITY
+Basketball Courts	Morse Park (Park No. 3)	"40 Fung Mo Street, Wong Tai Sin"	114.1905556	22.33861111	837672	822164.7	WONG TAI SIN
+Basketball Courts	Tsuen Wan Riviera Park	"2A Yi Hong Street, Tsuen Wan"	114.1122222	22.36333333	829602	824915	TSUEN WAN
+Basketball Courts	Wo Hing Sports Centre	"8 Wo Ming Lane, Fanling"	114.1430556	22.48472222	832796	838355	NORTH
+Basketball Courts	Kwai Fong Street Playground	"Kwai Fong Street, Happy Valley"	114.1866667	22.26694444	837269.6	814228.1	WAN CHAI
+Basketball Courts	Shui Pin Tsuen Playground	"Yuen Long Tai Yuk Road, Yuen Long"	114.0216667	22.44416667	820293.6	833859	YUEN LONG
+Basketball Courts	Java Road Sports Centre	"3/F, Java Road Municipal Services Building, 99 Java Road,North Point"	114.1994444	22.29222222	838589	817038	EASTERN
+Basketball Courts	Sau Nga Road Playground	"J/O Hiu Kwong Street & Sau Nga Road, Kwun Tong"	114.2272222	22.32055556	841458.6	820180.8	KWUN TONG
+Basketball Courts	Yau Tong Road Playground	"Yau Tong Road, Yau Tong, Kowloon"	114.2341667	22.30027778	842158	817934.6	KWUN TONG
+Basketball Courts	Tsz Wan Shan Estate Central Playground	"1 Wan Wah Street, Wong Tai Sin"	114.2005556	22.34972222	838695.2	823394.5	WONG TAI SIN
+Basketball Courts	Wang Toi Shan Playground	"Wang Toi Shan, Fan Kam Road, Pat Heung, Yuen Long"	114.095	22.44138889	827828.3	833564.7	YUEN LONG
+Basketball Courts	Ma On Shan Recreation Ground	"1 Hang Hong Street, Ma On Shan"	114.2280556	22.41944444	841529	831123	SHA TIN
+Basketball Courts	Tung Chau Street Park	"Tung Chau Street, Sham Shui Po"	114.1602778	22.32555556	834559	820713	SHAM SHUI PO
+Basketball Courts	Hong Kong Park Sports Centre	"29 Cotton Tree Drive, Central"	114.1591667	22.27722222	834456	815387	CENTRAL & WESTERN
+Basketball Courts	Chai Wan Sports Centre	"6 Yee Shun Street, Chai Wan"	114.24	22.26472222	842765	814005	EASTERN
+Basketball Courts	Kwai Yi Road Playground	"Kwai Yi Road, Kwai Chung, New Territories"	114.1280556	22.35527778	831227.6	824010.7	KWAI TSING
+Basketball Courts	Kwong Lee Road Playground	"Kwong Lee Road, Sham Shui Po"	114.16	22.34	834527	822324	SHAM SHUI PO
+Basketball Courts	Lockhart Road Playground	"Lockhart Road near Arsenal Street, Wan Chai"	114.1694444	22.27833333	835493.9	815499.9	WAN CHAI
+Basketball Courts	Shau Kei Wan Service Reservoir Playground	"Yiu Hing Road, Shau Kei Wan"	114.2177778	22.2825	840484.6	815950.3	EASTERN
+Basketball Courts	King Wan Street Playground	"King Wan Street, Kowloon City"	114.1925	22.31583333	837879.4	819660.7	KOWLOON CITY
+Basketball Courts	Healthy Village Playground	"Pak Fuk Road, North Point"	114.2058333	22.29083333	839250	816867	EASTERN
+Basketball Courts	Tai Wan Road Playground	Tai Wan Road	114.1880556	22.3075	837423.4	818721	KOWLOON CITY
+Basketball Courts	Kwun Chung Sports Centre	"5/F - 7/F, 17 Bowring Street, Jordon"	114.1683333	22.30444444	835380	818387	YAU TSIM MONG
+Basketball Courts	Hiu Ming Street Playground	"Hiu Ming Street, Kwun Tong"	114.2313889	22.31583333	841893	819652	KWUN TONG
+Basketball Courts	Tung Tau Industrial Area Playground	"Keung Yip Street, Tung Tau Industrial Area, Yuen Long"	114.0302778	22.44944444	821181	834466.5	YUEN LONG
+Basketball Courts	Boundary Street Sports Centre No. 2	"200 Sai Yee Street, Mong Kok"	114.1705556	22.32611111	835614	820784	YAU TSIM MONG
+Basketball Courts	Cheung Tat Road Sitting-out Area	"Cheung Tat Road, Tsing Yi"	114.1097222	22.34972222	829355.4	823390.6	KWAI TSING
+Basketball Courts	Tai Hing Sports Centre	"38 Tsing Chung Koon Road, Tuen Mun"	113.9730556	22.40333333	815282.9	829358	TUEN MUN
+Basketball Courts	Tai Lin Pai Road Playground	"Tai Lin Pai Road, Kwai Chung"	114.1336111	22.36222222	831820.1	824781.1	KWAI TSING
+Basketball Courts	Tsuen Wing Street Playground	"Tsuen Wing Street, Tsuen Wan"	114.1211111	22.36805556	830522.3	825431.3	TSUEN WAN
+Basketball Courts	Shui Wo Street Sports Centre	"8/F & 9/F,Shui Wo Street Municipal Services Building,9 Shui Wo Street, Kwun Tong,Kowloon."	114.2241667	22.31555556	841152	819631	KWUN TONG
+Basketball Courts	Tin Ha Road Playground	"Tin Ha Road, Tuen Mun"	113.9927778	22.43083333	817306	832384	TUEN MUN
+Basketball Courts	Cheung Sha Wan Sports Centre	"J/O Hing Wah Street & Cheung Sha Wan Road, Sham Shui Po"	114.1533333	22.33805556	833857	822100	SHAM SHUI PO
+Basketball Courts	Sheung Wan Sports Centre	"11/F Sheung Wan Municipal Services Building, 345 Queen's Road Central"	114.1497222	22.28611111	833460	816346	CENTRAL & WESTERN
+Basketball Courts	Tai Wo Sports Centre	"Podium Level, Tai Wo Shopping Centre, Tai Wo Estate, Tai Po"	114.1605556	22.45111111	834591	834617	TAI PO
+Basketball Courts	Shanghai Street / Market Street Playground	"J/O Shanghai Street, Market Street"	114.1697222	22.30944444	835545	818942	YAU TSIM MONG
+Basketball Courts	Macpherson Playground	"59 Sai Yee Street, Mongkok"	114.1722222	22.31833333	835788.6	819927	YAU TSIM MONG
+Basketball Courts	Long Ping Sports Centre	"2/F., Long Ping Commercial Centre, 202 Long Ping Estate, Yuen Long"	114.0230556	22.45027778	820449	834547	YUEN LONG
+Basketball Courts	Smithfield Sports Centre	"4/F, Smithfield Municipal Services Building, 12K Smithfield Road, Kennedy Town, Western"	114.1286111	22.28194444	831297	815897	CENTRAL & WESTERN
+Basketball Courts	Hiu Kwong Street Sports Centre	"2 Hiu Kwong Street, Kwun Tong"	114.2277778	22.31972222	841504	820089	KWUN TONG
+Basketball Courts	Osman Ramju Sadick Memorial Sports Centre	"176 Hing Fong Road, Kwai Chung"	114.1294444	22.36111111	831391	824665	KWAI TSING
+Basketball Courts	King Fuk Street Playground	"60 King Fuk Street, Wong Tai Sin"	114.1997222	22.33555556	838634.7	821820.1	WONG TAI SIN
+Basketball Courts	Ngau Tau Kok Road Sports Centre	"3/F-4/F Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Ngau Tau Kok"	114.2163889	22.32138889	840338	820275	KWUN TONG
+Basketball Courts	"Yung Shue Wan Basketball Court, North Lamma"	"Yung Shue Wan, Lamma"	114.1147222	22.225	829846.9	809577.9	ISLANDS
+Basketball Courts	Yuen Long Sports Centre	"3/F, Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long"	114.0238889	22.44138889	820517.2	833569.1	YUEN LONG
+Basketball Courts	Ping Shek Playground	"Choi Sek Lane, Kwun Tong"	114.2119444	22.3325	839870	821480	KWUN TONG
+Basketball Courts	Cheung Fat Sports Centre	"4/F, Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi"	114.1027778	22.3625	828627.9	824815.8	KWAI TSING
+Basketball Courts	A Kung Kok Basketball Court	"Ah Kung Kok Fishermen Village, A Kung Kok Street, Sha Tin, NT"	114.2155556	22.40194444	840253.5	829179.9	SHA TIN
+Basketball Courts	Tin Pak Road Park	"Tin Pak Road, Tin Shui Wai, Yuen Long"	114.0077778	22.4575	818856.3	835332.6	YUEN LONG
+Basketball Courts	Wuhu Street Temporary Playground	Wuhu Street	114.1841667	22.30861111	837006.6	818853.6	KOWLOON CITY
+Basketball Courts	Kowloon Bay Sports Centre	"15 Kai Lok Street, Kowloon Bay"	114.2111111	22.32694444	839808	820871	KWUN TONG
+Basketball Courts	Aldrich Bay Promenade	"Oi Lai Street, Shau Kei Wan"	114.2297222	22.28277778	841726	815978	EASTERN
+Basketball Courts	Shek Kip Mei Central Playground	"Wai Chi Street, Sham Shui Po"	114.1661111	22.33444444	835160.2	821704.8	SHAM SHUI PO
+Basketball Courts	Sun Yat Sen Memorial Park	"Eastern Street North, Sai Ying Pun"	114.1444444	22.28972222	832935.9	816763.9	CENTRAL & WESTERN
+Basketball Courts	Peng Chau Sports Centre	"Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau"	114.0380556	22.285	821962	816229	ISLANDS
+Basketball Courts	Shing Mun Valley Park	"Shing Mun Road, Tsuen Wan"	114.125	22.37472222	830933	826174	TSUEN WAN
+Basketball Courts	Tong Min Tsuen Playground	"Tong Min Tsuen, Tai Po, N.T."	114.1377778	22.45277778	832245	834815.6	TAI PO
+Basketball Courts	Wo Hing Playground	"Lui Ming Road, Fanling, N.T."	114.1433333	22.48416667	832809.6	838289.6	NORTH
+Basketball Courts	Tsuen King Circuit Garden (Basketball practice court)	"No. 38, Mei Wan Street, Tsuen Wan, N.T."	114.1108333	22.37805556	829473.4	826529.3	TSUEN WAN
+Basketball Courts	Kennedy Road Playground	"Kennedy Road, Mid-Level"	114.1566667	22.27638889	834182	815296	CENTRAL & WESTERN
+Basketball Courts	Island East Sports Centre	"52 Lei King Road, Sai Wan Ho"	114.2222222	22.28472222	840948	816205	EASTERN
+Basketball Courts	Braemar Hill Road Playground	"Braemar Hill Road, North Point"	114.1994444	22.28416667	838598	816129	EASTERN
+Basketball Courts	Ngau Chi Wan Sports Centre	"1/F, Ngau Chi Wan Municipal Services Building, 11 Clear Water Bay Road, Kowloon"	114.2097222	22.33444444	839643	821722	WONG TAI SIN
+Basketball Courts	"Shek Pik Resettlers' Playground, Tsuen Wan"	"Ham Tin Street, Tsuen Wan"	114.1172222	22.36805556	830135.5	825434.3	TSUEN WAN
+Basketball Courts	Ting On Street Playground	"Ting On Street, Kwun Tong"	114.2166667	22.31722222	840356	819799	KWUN TONG
+Basketball Courts	Kai Tak East Sports Centre	"30 Luk Hop Street, San Po Kong"	114.2005556	22.33583333	838708	821877	WONG TAI SIN
+Basketball Courts	Kwai Shing Circuit Playground	"Kwai Shing Circuit, Kwai Chung, New Territories"	114.1280556	22.36222222	831246.9	824789	KWAI TSING
+Basketball Courts	Ho Man Tin Park	1 Chung Yee Street	114.1805556	22.31222222	836650	819258	KOWLOON CITY
+Basketball Courts	Tsing Yi Four Village Playground	"Tsing Sum Street, Tsing Yi"	114.1011111	22.35305556	828474.6	823777.6	KWAI TSING
+Basketball Courts	Tsuen King Circuit Sports Centre	"38 Mei Wan Street, Tsuen King Circuit, Tsuen Wan"	114.1111111	22.37777778	829509	826498	TSUEN WAN
+Basketball Courts	Tsang Tai UK Recreation Ground	"Sha Kok Street, Sha Tin"	114.1897222	22.37416667	837591	826123.3	SHA TIN
+Basketball Courts	Hang Hau Basketball Court	"Hang Hau Village, Tseung Kwan O."	114.2663889	22.32111111	845499.5	820233.9	SAI KUNG
+Basketball Courts	Tin Shui Sports Centre	"7 Tin Shui Road, Tin Shui Wai, Yuen Long"	113.9980556	22.45472222	817854	835045	YUEN LONG
+Basketball Courts	Stanley Sports Centre	"U/G, 6 Stanley Maket Road, Stanley"	114.2122222	22.21916667	839911	808944	SOUTHERN
+Basketball Courts	Yeung Uk Road Sports Centre	"4/F Yeung Uk Road Municipal Services Building, 45 Yeung Uk Road, Tsuen Wan"	114.1144444	22.36888889	829846	825537	TSUEN WAN
+Basketball Courts	Po Wing Road Sports Centre	"19 Pak Wo Road, Sheung Shui, New Territories"	114.1283333	22.49694444	831273.9	839708.9	NORTH
+Basketball Courts	Man Tung Road Park	"55 Man Tung Raod, Tung Chung, Lantau Island"	113.9408333	22.29222222	811943.3	817042	ISLANDS
+Basketball Courts	Tai Wan Shan Park	Wan Hoi Road	114.1927778	22.30611111	837910	818565	KOWLOON CITY
+Basketball Courts	Ma Tau Wai Road Playground	Ma Tau Wai Road	114.1872222	22.32194444	837329.5	820329.7	KOWLOON CITY
+Basketball Courts	Kennedy Town Service Reservoir Playground	"Kennedy Town Service Reservoir, Kennedy Town"	114.1272222	22.27916667	831161.3	815588	CENTRAL & WESTERN
+Basketball Courts	Tong Yan San Tsuen Playground	"Castle Peak Road, Ping Shan, Yuen Long"	114.0105556	22.44138889	819145.4	833570.3	YUEN LONG
+Basketball Courts	Sham Tsz Street Playground	"Sham Tsz Street, Sham Tseng, Tsuen Wan"	114.0641667	22.36527778	824672.3	825129.3	TSUEN WAN
+Basketball Courts	Yuen Long Children's Playground	"Hong Lok Road, Yuen Long"	114.0269444	22.44361111	820835.5	833813.8	YUEN LONG
+Basketball Courts	Tsing Sin Street Basketball Court	"Tsing Hoi Circuit,Tuen Mun"	113.9797222	22.38611111	815960.9	827435.9	TUEN MUN
+Basketball Courts	Tai Po Hui Sports Centre	"6/F Multi Car-Park Building, Fu Shin Estate, 8 Heung Sze Wui Street, Tai Po"	114.1666667	22.44611111	835208	834077	TAI PO
+Basketball Courts	Rutland Quadrant Children's Playground	Rutland Quadrant	114.1780556	22.33333333	836399	821596	KOWLOON CITY
+Basketball Courts	Pokfulam Road Playground	"Pokfulam Road, Kennedy Town"	114.1311111	22.27777778	831558	815426	CENTRAL & WESTERN
+Basketball Courts	Peng Chau Waterfront Playground	Peng Chau Lo Peng Street	114.0372222	22.28527778	821871.5	816260.2	ISLANDS
+Basketball Courts	Maple Street Playground	"J/O Cheung Sha Wan Road and Maple Street, Sham Shui Po"	114.1652778	22.3275	835083	820944	SHAM SHUI PO
+Basketball Courts	Kwok Shui Road Park	"Kwok Shui Road, Tsuen Wan"	114.1283333	22.37111111	831278.6	825777.5	TSUEN WAN
+Basketball Courts	Kam Tin Po Tei Playground	"Po Tei Road, Kam Tin, Yuen Long"	114.0672222	22.43916667	824982	833312.6	YUEN LONG
+Basketball Courts	Choi Hung Road Sports Centre	"Sheung Hei Street, Wong Tai Sin"	114.1963889	22.33722222	838285	822007	WONG TAI SIN
+Basketball Courts	Fu Heng Sports Centre	"1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po"	114.1713889	22.45833333	835700	835424	TAI PO
+Basketball Courts	Fung Kwan Street Garden	"Fung Kwan Street, Yuen Long"	114.0341667	22.4425	821575.6	833670.4	YUEN LONG
+Basketball Courts	Tung On Street Rest Garden	"NO. 35-41 Tung On Street, Kowloon"	114.1675	22.31444444	835292.7	819482.3	YAU TSIM MONG
+Basketball Courts	Shek Tong Tsui Sports Centre	"5/F Shek Tong Tsui Municipal Services Building, 470 Queen's Road West"	114.1361111	22.28583333	832061	816315	CENTRAL & WESTERN
+Basketball Courts	Lockhart Road Sports Centre	"10/F Lockhart Road Municipal Services Building, 225 Hennessy Road, Wanchai"	114.1755556	22.27805556	836118	815468	WAN CHAI
+Basketball Courts	Po On Road Sports Centre	"1/F & 2/F Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po"	114.1575	22.33861111	834261	822172.3	SHAM SHUI PO
+Basketball Courts	Mui Wo Playground	"Ngan Shu Street, Mui Wo, Lantau Islands"	113.9955556	22.26666667	817582	814202	ISLANDS
+Basketball Courts	Tai Ping Village Playground	"Po Lo Che Road, Sai Kung"	114.2622222	22.38055556	845051.1	826823.9	SAI KUNG
+Basketball Courts	Tin Sau Road Park	"Tin Sau Road, Tin Shui Wai, Yuen Long"	114.0016667	22.46611111	818238.7	836288.6	YUEN LONG
+Basketball Courts	Southorn Playground	"Luard Road, Wan Chai"	114.1725	22.27722222	835810.8	815361	WAN CHAI
+Basketball Courts	Luk Keng Village Playground	"Luk Keng, N.T."	114.2161111	22.5225	840296.1	842528.1	NORTH
+Basketball Courts	Kowloon Tsai Park	13 Inverness Road	114.1833333	22.3325	836944.5	821491.6	KOWLOON CITY
+Basketball Courts	North District Sports Ground	"26 Tin Ping Road, Sheung Shui"	114.1305556	22.50638889	831507.7	840737.7	NORTH
+Basketball Courts	Pui Ching Road Playground	Pui Ching Road/Man Fuk Road	114.1763889	22.31833333	836221	819932	KOWLOON CITY
+Basketball Courts	Hong Ning Road Recreation Ground	"Hong Ning Road, Kwun Tong"	114.2233333	22.3175	841067	819835	KWUN TONG
+Basketball Courts	Lung Sum Avenue Sports Centre	"155 Jockey Club Road, Sheung Shui"	114.1305556	22.505	831491	840595	NORTH
+Basketball Courts	Wai Tsuen Sports Centre	"6 Miu Kong Street, Tsuen Wan"	114.1225	22.37222222	830667	825905	TSUEN WAN
+Basketball Courts	Tin Ping Sports Centre	"3/F., Tin Ping Estate Shopping Centre, Tin Ping Estate, North"	114.1336111	22.50333333	831820	840411	NORTH
+Basketball Courts	Hin Keng Sports Centre	"Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin"	114.1713889	22.36305556	835698	824880	SHA TIN
+Basketball Courts	Cheung Sha Wan Road / Cheung Shun Street Playground	"Cheung Sha Wan Road / Cheung Shun Street, Sham Shui Po"	114.1458333	22.33611111	833075	821903	SHAM SHUI PO
+Basketball Courts	Town Park South Playground	"Town Park Road South, Yuen Long"	114.0180556	22.43944444	819931.3	833342.9	YUEN LONG
+Basketball Courts	Hung Hom Municipal Services Building Sports Centre	"3-5/F Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Hung Hom, Kowloon"	114.1872222	22.30722222	837348	818701	KOWLOON CITY
+Basketball Courts	Hennessy Road Playground	"Hennessy Road, Wan Chai"	114.1780556	22.27777778	836398.3	815446.2	WAN CHAI
+Basketball Courts	Sheung Tsuen Park	"Sheung Tsuen, Shek Kong, Yuen Long"	114.1025	22.43166667	828610	832486	YUEN LONG
+Basketball Courts	Kennedy Town Playground	Near Forbes Street Temporary Playground	114.1269444	22.28111111	831111.8	815793.7	CENTRAL & WESTERN
+Basketball Courts	Tai Loong Street Playground	"Tai Loong Street, Kwai Chung, New Territories"	114.1375	22.36611111	832225.3	825220.3	KWAI TSING
+Basketball Courts	On Lok Tsuen Playground	"On Lok Tsuen, Fanling"	114.1433333	22.49722222	832822	839733	NORTH
+Basketball Courts	Fung Shue Wo Sports Centre	"10 Fung Shue Wo Road, Tsing Yi Estate, Phase II, Tsing Yi"	114.1027778	22.35555556	828627.1	824041.3	KWAI TSING
+Basketball Courts	Blake Gardens	"J/O Po Hing Fong & Kui In Fong, Sheung Wan"	114.1480556	22.28444444	833305	816160	CENTRAL & WESTERN
+Basketball Courts	Sai Wan Ho Sports Centre	"2/F Sai Wan Ho Municipal Services Building, 111 Shau Kei Wan Road, Shaukiwan"	114.2227778	22.28194444	840993	815909	EASTERN
+Basketball Courts	Peace Avenue Playground	Peace Avenue	114.1738889	22.31861111	835961	819971	KOWLOON CITY
+Basketball Courts	Leung Tin Sports Centre	"4/F, Carpark Building, Tin King Estate, Tuen Mun"	113.965	22.40666667	814461	829716	TUEN MUN
+Basketball Courts	The Jockey Club Tuen Mun Butterfly Beach Sports Centre	"Wu Shan Road, Tuen Mun"	113.9647222	22.37861111	814417	826625	TUEN MUN
+Basketball Courts	Kowloon Bay Playground	"Kai Lok Street, Kowloon Bay"	114.2105556	22.32638889	839745.2	820803.4	KWUN TONG
+Basketball Courts	Tsing Hoi Playground	"Tsing Hoi Circuit,Tuen Mun"	113.9786111	22.38944444	815844.3	827821	TUEN MUN
+Basketball Courts	Shek Kip Mei Park	"270 Nam Cheong Street, Sham Shui Po"	114.1711111	22.33861111	835661	822169	SHAM SHUI PO
+Basketball Courts	Sam Ka Tsuen Recreation Ground	"J/O Cha Kwo Ling Road & Sze Shan Street, Sam Ka Tsuen"	114.2372222	22.29416667	842498	817262	KWUN TONG
+Basketball Courts	Ping Ha Road Garden	"Law Uk Tsuen, Ping Ha Road, Ha Tsuen, Yuen Long"	113.9944444	22.45083333	817490.4	834619.6	YUEN LONG
+Basketball Courts	Pei Ho Street Sports Centre	"5/F Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po"	114.1611111	22.32916667	834646	821134	SHAM SHUI PO
+Basketball Courts	Mong Tseng Wai Basketball Court	"Mong Tseng Wai, Ping Shan, Yuen Long"	114.0033333	22.47722222	818421.7	837527.1	YUEN LONG
+Basketball Courts	Shek Pai Tau Playground	"Ho Tin Street, Tuen Mun"	113.9697222	22.3975	814930	828707	TUEN MUN
+Basketball Courts	Fung Shue Wo Resite Village Basketball Court	"Fung Shue Wo Resite Village, Tsing Yu Street"	114.1008333	22.35583333	828447.3	824088.6	KWAI TSING
+Basketball Courts	Cheung Chau Sports Centre	"Nam She Tong, Cheung Chau"	114.0311111	22.2075	821245	807661	ISLANDS
+Basketball Courts	Junction Road Park	195 Junction Road	114.1838889	22.33916667	836989	822232	KOWLOON CITY
+Basketball Courts	Fung Kam Street Sports Centre	"20 Fung Yau Street North, Yuen Long"	114.0330556	22.44305556	821461	833745	YUEN LONG
+Basketball Courts	San Hui Playground	"Heung Sze Wui Road, Area 10, Tuen Mun"	113.9763889	22.40027778	815614	829027	TUEN MUN
+Basketball Courts	Kam Shing Road Recreation Ground	Kam Shing Road	114.1811111	22.33916667	836709.1	822245.5	KOWLOON CITY
+Basketball Courts	Plover Cove Road Basketball Courts	"Plover Cove Road, Tai Po, N.T."	114.1730556	22.44861111	835879.1	834351.2	TAI PO
+Basketball Courts	Lai King Sports Centre	"60 Lai Cho Road, Lai King, Kwai Chung"	114.1277778	22.34972222	831200.1	823417.4	KWAI TSING
+Basketball Courts	Po Lam Sports Centre	"Po Lam Estate, Tseung Kwan O, Sai Kung"	114.255	22.32583333	844328	820761	SAI KUNG
+Basketball Courts	Kwai Hop Street Playground	"Kwai Hop Street, Kwai Chung, New Territories"	114.1291667	22.36527778	831363.1	825122.8	KWAI TSING
+Basketball Courts	Tsing Yi Park	"Tsing Luk Street, Tsing Yi"	114.1058333	22.35611111	828954.6	824116.8	KWAI TSING
+Basketball Courts	Ngau Chi Wan Park	"71 Fung Shing Street, Ngau Chi Wan, Wong Tai Sin"	114.2138889	22.33611111	840072.2	821899.4	WONG TAI SIN
+Basketball Courts	Anchor Street Playground	"55 Anchor Street, Mongkok"	114.1644444	22.31944444	834988	820063	YAU TSIM MONG
+Basketball Courts	Wu Shan Recreation Playground	Tuen Mun Wu Shan Road	113.9655556	22.37944444	814511.4	826722.3	TUEN MUN
+Basketball Courts	Fuk Hang Playground	"Fuk Hang Tsuen Road, Tuen Mun"	113.985	22.42166667	816516.8	831366	TUEN MUN
+Basketball Courts	Jordan Valley Playground	"Choi Ha Road, Ngau Tau Kok, Kowloon"	114.2186111	22.32472222	840581.9	820648.8	KWUN TONG
+Basketball Courts	Cheung Chau Sports Ground	"Fa Ping Road, Cheung Chau"	114.0330556	22.20666667	821430.4	807558.4	ISLANDS
+Basketball Courts	Tung Chung Man Tung Road Sports Centre	"G/F., Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung"	113.9438889	22.29055556	812252.7	816872	ISLANDS
+Basketball Courts	"Sha Lo Wan Playground, Lantau"	"Sha Lo Wan, Lantau Island"	113.9025	22.28555556	807979.3	816314.8	ISLANDS
+Basketball Courts	Tai Po Old Market Playground	"Junction of Tai Wo Road/Ting Kok, Tai Po"	114.1661111	22.45222222	835150	834739	TAI PO
+Basketball Courts	Quarry Bay Sports Centre	"6/F & 7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Quarry Bay"	114.2116667	22.28361111	839866	816090	EASTERN
+Basketball Courts	Sycamore Playground	"12 Willow Street, Mongkok"	114.1630556	22.32472222	834834	820631	YAU TSIM MONG
+Basketball Courts	Kan Tau Wai Playground	"Kan Tau Wai Village, Ping Che Road,Ta Kwu Ling, N.T."	114.1497222	22.53888889	833473.2	844363.8	NORTH
+Basketball Courts	Ping Pak Lane Park	"Ping Pak Lane, Ping Shan, Yuen Long"	114.0061111	22.44027778	818692.1	833436.2	YUEN LONG
+Basketball Courts	Tai Po Sports Centre	"13 Ting Tai Road, Tai Po"	114.165	22.45527778	835035	835097	TAI PO
+Basketball Courts	Tsing Chau Street Playground	Tsing Chau Street	114.1861111	22.31027778	837229	819025	KOWLOON CITY
+Basketball Courts	Java Road Playground	"Java Road, North Point"	114.2094444	22.29083333	839625	816873	EASTERN
+Basketball Courts	Wing Ling Basketball Court	"Wing Ling Village, Lung Yeuk Tau, Fanling, N.T."	114.1511111	22.50111111	833607.9	840175.4	NORTH
+Basketball Courts	Harbour Road Sports Centre	"27 Harbour Road, Wanchai"	114.1766667	22.28138889	836250.9	815822	WAN CHAI
+Basketball Courts	King's Park Recreation Ground	23 King's Park Rise	114.1736111	22.31083333	835945.4	819082.9	YAU TSIM MONG
+Basketball Courts	Heng On Sports Centre	"4/F., Heng On Commercial Centre, Heng On Estate, Ma On Shan, Sha Tin"	114.2277778	22.41666667	841518	830818	SHA TIN
+Basketball Courts	San Tong Tsuen Playground	"San Tong Tsuen, Tai Po, N.T."	114.1358333	22.44861111	832045.5	834353.6	TAI PO
+Basketball Courts	Tai Hang Tung Estate Playground No.1	"Tong Yam Street, Sham Shui Po"	114.1713889	22.32972222	835692	821184	SHAM SHUI PO
+Basketball Courts	Hong Tat Path Garden	Science Museum Road	114.1791667	22.30083333	836508.6	817990.5	YAU TSIM MONG
+Basketball Courts	Chai Wan Kok Playground	"198, Tsuen King Circuit, Tsuen Wan."	114.1041667	22.37611111	828792.5	826315.4	TSUEN WAN
+Basketball Courts	Kent Road Garden	Kent Road	114.1752778	22.33916667	836116	822241	KOWLOON CITY
+Basketball Courts	Cheung Sha Wan Playground	"Cheung Sha Wan Road,Sham Shui Po, Kowloon"	114.155	22.335	834010.7	821760.3	SHAM SHUI PO
+Basketball Courts	Tin Fai Road Sports Centre	"No. 63, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T."	113.9969444	22.46472222	817757.1	836155.6	YUEN LONG
+Basketball Courts	Third Street Playground	"Third Street, Sai Ying Pun"	114.1383333	22.28583333	832286	816316.3	CENTRAL & WESTERN
+Basketball Courts	Yin Kong Playground	"Yin Kong Village, Sheung Shui, N.T."	114.1122222	22.50472222	829606.4	840552.3	NORTH
+Basketball Courts	Po Kong Village Road Sports Centre	"120 Po Kong Village Road, Wong Tai Sin"	114.2016667	22.34555556	838814	822930	WONG TAI SIN
+Basketball Courts	Tai Kok Tsui Sports Centre	"5-7/F., Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui"	114.1627778	22.32194444	834817	820319	YAU TSIM MONG
+Basketball Courts	Lung Cheung Road Playground	Beacon Hill Road	114.1777778	22.34416667	836370	822792	KOWLOON CITY
+Basketball Courts	Kau Wah Keng Village Playground	"Kau Wah Keng Village, Kwai Chung, New Territories"	114.1352778	22.34638889	831989.4	823019.4	KWAI TSING
+Basketball Courts	Sam Tung Uk Village Playground	"Sam Tung Uk Village, Tsuen Wan"	114.1305556	22.38027778	831498.7	826787	TSUEN WAN
+Basketball Courts	Shun Lee Tsuen Sports Centre	"Shun Lee Tsuen Road, Kwun Tong"	114.2255556	22.32972222	841271	821184	KWUN TONG
+Basketball Courts	Wong Chuk Hang Sports Centre	"168 Wong Chuk Hang Road, Aberdeen"	114.1733333	22.24972222	835909	812330	SOUTHERN
+Basketball Courts	On Tak Road Playground	"On Tak Road, Ngau Tau Kok"	114.2169444	22.32027778	840397	820150	KWUN TONG
+Basketball Courts	Muk Lun Street Playground	"7 Muk Lun Street, Wong Tai Sin"	114.1963889	22.34111111	838274.8	822452.6	WONG TAI SIN
+Basketball Courts	Tai Po Tau Playground	Tai Po Tau Path	114.1591667	22.45361111	834455.3	834900.5	TAI PO
+Basketball Courts	Choi Hung Road Playground	"150 Choi Hung Road, San Po Kong"	114.1958333	22.33722222	838224	822025	WONG TAI SIN
+Basketball Courts	Shek Wu Hui Playground	"Fu Hing Street, Fanling"	114.1280556	22.50361111	831250.3	840441.2	NORTH
+Basketball Courts	Wah Fat Playground	"near Kam Fai Garden, Wah Fat Street, Tuen Mun"	113.9819444	22.38388889	816206.7	827189.2	TUEN MUN
+Basketball Courts	Victoria Park	"Causeway Road, Causeway Bay"	114.1883333	22.2825	837438	815965	EASTERN
+Basketball Courts	Kwai Chung Sports Ground	"93 Hing Shing Road, Kwai Chung"	114.1252778	22.35833333	830954.3	824360	KWAI TSING
+Basketball Courts	Tsing Yi Northeast Park	"10, Tam Kon Shan Road, Tsing Yi"	114.0988889	22.3625	828227.8	824803.3	KWAI TSING
+Basketball Courts	Chuk Yuen Sports Centre	"Chuk Yuen North Estate, Chuk Yuen Road, Wong Tai Sin"	114.1936111	22.34555556	837982	822937	WONG TAI SIN
+Basketball Courts	Lai Chi Kok Park Sports Centre	"1 Lai Wan Road, Lai Chi Kok, Kowloon"	114.1383333	22.34083333	832285	822403	SHAM SHUI PO
+Basketball Courts	Mui Wo Sports Centre	"1/F, Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island"	113.9963889	22.26694444	817675	814251	ISLANDS
+Basketball Courts	Kin Yip Street Playground	"Kin Yip Street, Yuen Long"	114.0316667	22.44277778	821315.8	833717	YUEN LONG
+Basketball Courts	Hoi Sham Park	Yuk Yat Street	114.1916667	22.315	837800	819565	KOWLOON CITY
+Basketball Courts	Quarry Bay Park	"Near Hoi Tai Street, Quarry Bay"	114.2155556	22.28833333	840251	816612.2	EASTERN
+Basketball Courts	Sham Shui Po Park	"Lai Chi Kok Road, Sham Shui Po, Kowloon (inside Lai Kok Estate)"	114.1566667	22.33083333	834182.9	821313.3	SHAM SHUI PO
+Basketball Courts	Sam Pei Square Playground	"Sam Pei Square, Tsuen Wan"	114.1166667	22.36888889	830073.6	825518.3	TSUEN WAN
+Basketball Courts	Perth Street Sports Ground	"Shek Ku Street, Ho Man Tin"	114.1811111	22.32055556	836701	820176	KOWLOON CITY
+Basketball Courts	Chun Wah Road Sports Centre	"Top Floor, Lok Nga Court Carpark, 50 Chun Wah Road, Ngau Tau Kok, Kwun Tong"	114.2205556	22.3225	840764	820385	KWUN TONG
+Basketball Courts	Lung Yeuk Tau San Wai Children's Playground	"San Wai Village, Lung Yeuk Tau, Fanling, N.T."	114.1475	22.50722222	833257.3	840841.7	NORTH
+Basketball Courts	Boundary Street Sports Centre No. 1	"200 Sai Yee Street, Mong Kok"	114.1708333	22.32555556	835654	820730	YAU TSIM MONG
+Basketball Courts	Tseung Kwan O Sports Centre	"9 Wan Lung Road, Tseung Kwan O, Sai Kung"	114.2597222	22.31722222	844794	819792	SAI KUNG
+Basketball Courts	Siu Sai Wan Sports Centre	"2/F - 4/F, Siu Sai Wan Complex, 15 Siu Sai Wan Road, Hong Kong"	114.2494444	22.26361111	843759.5	813872.6	EASTERN
+Basketball Courts	Aberdeen Promenade	"Aberdeen Praya Road, Aberdeen"	114.1530556	22.24777778	833813	812100	SOUTHERN
+Basketball Courts	Shek Mun Playground	"On Ping Street, Shek Mun, Sha Tin"	114.2072222	22.39166667	839398.5	828049.9	SHA TIN
+Basketball Courts	Kowloon City Sports Centre	"3/F, Kln City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City"	114.1888889	22.32972222	837506	821178	KOWLOON CITY
+Basketball Courts	Sau Ming Road Park	"20 Sau Ming Road, Kwun Tong"	114.2302778	22.32138889	841770.8	820273.9	KWUN TONG
+Basketball Courts	Lam Tin South Sports Centre	"170 Pik Wan Road, Lam Tin, Kwun Tong"	114.2388889	22.30388889	842653	818325	KWUN TONG
+Basketball Courts	King's Park High Level Service Reservoir Playground	Chung Hau Street	114.1811111	22.31027778	836710	819034	KOWLOON CITY
+Basketball Courts	Oxford Road Playground	Oxford Road	114.1808333	22.32833333	836690	821024	KOWLOON CITY
+Basketball Courts	Shuen Wan Joint Village Basketball Court	"Shuen Wan Joint Village, Tai Po, N.T."	114.2094444	22.46805556	839614.3	836512	TAI PO
+Basketball Courts	Kennedy Town Temporary Recreation Ground	Opposite at No. 33 Sai Ning Street	114.1205556	22.28194444	830477	815890	CENTRAL & WESTERN
+Basketball Courts	Pak Wo Road Basketball Court	"Chi Wa Lane, Fanling, N.T."	114.1330556	22.49138889	831747.6	839100.1	NORTH
+Basketball Courts	Sheung Li Uk Garden	"Tai Po Road (Opposite North Kowloon Magistracy), Sham Shui Po"	114.1622222	22.33555556	834749	821838	SHAM SHUI PO
+Basketball Courts	Yue Kwong Road Sports Centre	Aberdeen Reservoir Road	114.1569444	22.25055556	834220	812416	SOUTHERN
+Basketball Courts	Tsz Wan Shan Road Playground	"Tsz Wan Shan Road, Tsz Wan Shan"	114.1969444	22.35055556	838323.8	823489.7	WONG TAI SIN
+Basketball Courts	Lok Wah Street Playground	"Lok Wan Street, Tsz Wan Shan"	114.2044444	22.34777778	839098.6	823198.2	WONG TAI SIN
+Basketball Courts	To Yuen Street Playground	"To Yuen Street, Sham Shui Po"	114.175	22.33527778	836087	821807	SHAM SHUI PO
+Basketball Courts	Po On Road Playground	"Along Po On Road between Fat Tseung Street & Cheung Fat Street, Sham Shui Po"	114.1580556	22.33944444	834315	822255	SHAM SHUI PO
+Basketball Courts	Lai King Hill Road Playground	"Lai King Hill Road, Kwai Chung, New Territories"	114.1275	22.34555556	831189.1	822939.2	KWAI TSING
+Basketball Courts	Ma On Shan Sports Centre	"14 On Chun Street, Ma On Shan, Shatin"	114.2294444	22.42611111	841692	831852	SHA TIN
+Basketball Courts	Sham Shui Po Sports Ground	"3 Hing Wah Street, Cheung Sha Wan"	114.1525	22.33694444	833756.5	822000.3	SHAM SHUI PO
+Basketball Courts	Chui Ling Lane Playground	"Choi Ming Street, Tseung Kwan O"	114.2508333	22.30416667	843879.7	818363.6	SAI KUNG
+Basketball Courts	"King George V Memorial Park,KLN"	"J/O Canton Road, Jordan Road"	114.1677778	22.30527778	835336	818471	YAU TSIM MONG
+Basketball Courts	Hoi Chu Road Playground	Hoi Chu Road Tuen Mun	113.9747222	22.38361111	815448.4	827160.6	TUEN MUN
+Basketball Courts	Sung Wong Toi Playground	Sung Wong Toi Road	114.1902778	22.32638889	837640.8	820823.9	KOWLOON CITY
+Basketball Courts	Tin Shui Wai Sports Centre	"1 Tin Pak Road, Tin Shui Wai, Yuen Long"	114.0066667	22.455	818736	835071	YUEN LONG
+Basketball Courts	North District Park	"Jockey Club Road, Sheung Shui"	114.1341667	22.49888889	831867.8	839924.2	NORTH
+Basketball Courts	Sycamore Street Playground	"64 Sycamore Street, Tai Kok Tsui"	114.1619444	22.32583333	834739.9	820754.6	YAU TSIM MONG
+Basketball Courts	Shun Ning Road Recreation Ground	"J/O Shun Ning Road & Pratas Street, Sham Shui Po"	114.1602778	22.33638889	834563	821933	SHAM SHUI PO
+Basketball Courts	Tsing Yi Southwest Sports Centre	"70 Chung Mei Road, Tsing Yi, New,Territories"	114.1019444	22.35166667	828562.4	823605.4	KWAI TSING
+Basketball Courts	Hoi On Road Playground (Basketball practice court)	"Hoi On Road, Tsuen Wan"	114.1047222	22.37277778	828839.7	825960.5	TSUEN WAN
+Basketball Courts	Arthur Street Temporary Playground	"J/O Public Square Street,Arthur Street, Kowloon."	114.1705556	22.31027778	835630.9	819049	YAU TSIM MONG
+Basketball Courts	Sik Kong Tsuen Playground	"San Sik Road, Sik Kong Tsuen, Ha Tsuen, Yuen Long"	113.9927778	22.44972222	817328.7	834498.8	YUEN LONG
+Basketball Courts	Lok Wah Playground	"Lok Wah South Estate, Ngau Tau Kok"	114.2180556	22.32083333	840519	820212.3	KWUN TONG
+Basketball Courts	Yuen Wo Road Sports Centre	"4 Yuen Wo Road, Sha Tin"	114.1925	22.38305556	837884	827080	SHA TIN
+Basketball Courts	Ta Kwu Ling Chuk Yuen Playground	"Chuk Yuen Village, Lin Ma Hang Road, Ta Kwu Ling, N.T."	114.1530556	22.55083333	833822	845658.7	NORTH
+Basketball Courts	"King George V Memorial Park, HK"	"Eastern Street, Sai Ying Pun"	114.1441667	22.28555556	832892	816308	CENTRAL & WESTERN
+Basketball Courts	Tsui Lam Sports Centre	"Tsui Lam Estate, Sai Kung"	114.2494444	22.32222222	843754	820359	SAI KUNG
+Basketball Courts	Wai Man Road Playground	"Wai Man Road, Sai Kung"	114.2747222	22.38416667	846331	827225	SAI KUNG
+Basketball Courts	Man Yee Playground	"Sai Kung Town, Wan King Road, Sai Kung"	114.2719444	22.38111111	846052.6	826887.6	SAI KUNG
+Basketball Courts	Chai Wan Park	"Chai Wan Park, Tsui Wan Street, Chai Wan"	114.2386111	22.26638889	842618.3	814162.8	EASTERN
+Basketball Courts	Hung Cheung Road Playground	"Hung Cheung Road, Tuen Mun"	113.9688889	22.39277778	814857.9	828168.9	TUEN MUN
+Basketball Courts	Ho Sheung Heung Playground	"Ho Sheung Heung, Sheung Shui, N.T."	114.1091667	22.51055556	829315.2	841224.6	NORTH
+Basketball Courts	Shek Pai Street Park	"Shek Pai Street, Kwai Chung, New Territories"	114.1372222	22.36361111	832170.6	824946.8	KWAI TSING
+Basketball Courts	Mei Lam Sports Centre	"Mei Lam Estate Phase III, Tai Wai, Sha Tin"	114.1755556	22.37916667	836126	826653	SHA TIN
+Basketball Courts	Ha Wan Tsuen Basketball Court	"Ha Wan Tsuen, Lok Ma Chau, San Tin, Yuen Long"	114.0741667	22.51583333	825706.7	841813.3	YUEN LONG
+Basketball Courts	Fu Shin Sports Centre	"Multi Car-Park Building, Fu Shin Estate, Tai Po"	114.1741667	22.45388889	835984	834936	TAI PO
+Basketball Courts	Chung Sing Path Playground	"Chung Sing Path, Yuen Long"	114.0261111	22.44361111	820749.5	833800.8	YUEN LONG
+Basketball Courts	Cloud View Road S/R Playground	"Cloud View Road, North Point"	114.1952778	22.285	838156	816244	EASTERN
+Basketball Courts	Fan Ling Wai Playground	"Fan Ling Wai, Fanling, N.T."	114.1361111	22.49722222	832076.1	839732.7	NORTH
+Basketball Courts	Tong Mi Road Children's Playground	"170 Tong Mi Road, Mongkok"	114.1652778	22.32305556	835085.9	820433.9	YAU TSIM MONG
+Basketball Courts	Kwun Tong Recreation Ground	"6 Tsui Ping Road, Kwun Tong"	114.2305556	22.31138889	841789.3	819162.5	KWUN TONG
+Basketball Courts	Sun Yat Sen Memorial Park Sports Centre	"18 Eastern Street North, Sai Ying Pun"	114.1436111	22.29027778	832828	816808	CENTRAL & WESTERN
+Basketball Courts	Tokwawan Complex Playground	165 Ma Tau Wai Road	114.1877778	22.3175	837401	819841	KOWLOON CITY
+Basketball Courts	Central Kwai Chung Park	"San Kwai Street, Kwai Chung"	114.1330556	22.35722222	831741.1	824230	KWAI TSING
+Basketball Courts	Sha Ling Playground	"Lo Wu Station Road, Sheung Shui, N.T."	114.1216667	22.525	830587.5	842822.5	NORTH
+Basketball Courts	Lai Chi Kok Park	"1 Lai Wan Road, Lai Chi Kok"	114.1369444	22.33944444	832158.8	822267.6	SHAM SHUI PO
+Basketball Courts	Po Hong Park	"Wan Lung Road, Tseung Kwan O"	114.2577778	22.31888889	844591	819977	SAI KUNG
+Basketball Courts	Fa Yuen Street Sports Centre	"13/F Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mong Kok"	114.1708333	22.32083333	835632	820197	YAU TSIM MONG
+Basketball Courts	Li Sing Street Playgroud	"Opposite at No. 2 Li Sing Street, Sai Ying Pun"	114.1455556	22.28694444	833033.8	816456.3	CENTRAL & WESTERN
+Basketball Courts	Kau Pui Lung Road Playground	Kau Pui Lung Road	114.185	22.3175	837118	819843	KOWLOON CITY
+Basketball Courts	Pak Lam Road Garden	"Tin Liu Sun Tsuen, Ma Wan, Tsuen Wan, N.T"	114.0591667	22.3525	824146.5	823708.3	TSUEN WAN
+Basketball Courts	Morse Park Sports Centre	"Fung Mo Street, WTS"	114.19	22.33833333	837633	822138	WONG TAI SIN

@@ -1,0 +1,111 @@
+Badminton Courts	North Kwai Chung Tang Shiu Kin Sports Centre	"292 Wo Yi Hop Road, Kwai Chung"	114.1375	22.37388889	832218.8	826076.4	KWAI TSING
+Badminton Courts	Wong Nai Chung Sports Centre	"4/F,Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley"	114.1858333	22.26888889	837183	814457	WAN CHAI
+Badminton Courts	Ap Lei Chau Sports Centre	"8 Hung Shing Street, Apleichau"	114.1555556	22.24444444	834056	811748	SOUTHERN
+Badminton Courts	Tsuen Wan West Sports Centre	"68 Hoi On Road, Tsuen Wan"	114.1005556	22.37055556	828403	825702	TSUEN WAN
+Badminton Courts	Fat Kwong Street Sports Centre	"18 Good Shepherd Street, Ho Man Tin"	114.1811111	22.31472222	836704	819538	KOWLOON CITY
+Badminton Courts	Tai Wo Hau Sports Centre	"39 Tai Ha Street, Tai Wo Hau, Kwai Chung"	114.125	22.37027778	830920.2	825670.1	KWAI TSING
+Badminton Courts	Yau Oi Sports Centre	"3 Hing On Lane, Tuen Mun"	113.9716667	22.38555556	815149.4	827373.5	TUEN MUN
+Badminton Courts	To Kwa Wan Sports Centre	"66 Ha Heung Road, To Kwa Wan"	114.19	22.31888889	837633	819983	KOWLOON CITY
+Badminton Courts	Lei Yue Mun Sports Centre	"2/F to 5/F of Lei Yue Mun Municipal Services Building, Yau Tong, Kowloon"	114.2386111	22.29194444	842637	817018	KWUN TONG
+Badminton Courts	Ping Shan Tin Shui Wai Sports Centre	"1, Tsui Sing Road, Tin Shui Wai, Yuen Long"	114.0047222	22.4475	818540.4	834227.5	YUEN LONG
+Badminton Courts	Canton Road Playground	"176 Canton Road, Kowloon"	114.1683333	22.30111111	835391.5	818015.1	YAU TSIM MONG
+Badminton Courts	Shek Kip Mei Park Sports Centre	"290 Nam Cheong Street, Shek Kip Mei"	114.17	22.33722222	835556	822025	SHAM SHUI PO
+Badminton Courts	Queen Elizabeth Stadium	"18 Oi Kwan Road, Wan Chai, Hong Kong"	114.1788889	22.27527778	836477.1	815147.1	WAN CHAI
+Badminton Courts	Tsing Yi Sports Centre	"2/F, Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi"	114.1063889	22.35416667	829020	823899.9	KWAI TSING
+Badminton Courts	Ma Mei Ha Playground	"Ma Mei Ha, N.T."	114.1769444	22.51833333	836287.1	842059.4	NORTH
+Badminton Courts	Tai Tau Leng Sitting-out Area	"Tai Tau Leng Village, Po Shek Wu Road, Sheung Shui, N.T."	114.1233333	22.50027778	830754.5	840075.7	NORTH
+Badminton Courts	Aberdeen Sports Centre	"6/F Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen"	114.1544444	22.24944444	833947	812311	SOUTHERN
+Badminton Courts	Hang Hau Sports Centre	"1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O."	114.2683333	22.31722222	845681	819800.3	SAI KUNG
+Badminton Courts	Choi Hung Road Badminton Centre	"Sheung Hei Street, Wong Tai Sin"	114.1969444	22.3375	838341	822052	WONG TAI SIN
+Badminton Courts	Wo Hing Sports Centre	"8 Wo Ming Lane, Fanling"	114.1430556	22.48472222	832796	838355	NORTH
+Badminton Courts	Java Road Sports Centre	"3/F, Java Road Municipal Services Building, 99 Java Road,North Point"	114.1994444	22.29222222	838589	817038	EASTERN
+Badminton Courts	Tai Kiu Market Sitting-out Area	"Tai Kiu Market, Kiu Lok Square, Yuen Long"	114.0269444	22.44527778	820837.6	833979.6	YUEN LONG
+Badminton Courts	Hong Kong Park Sports Centre	"29 Cotton Tree Drive, Central"	114.1591667	22.27722222	834456	815387	CENTRAL & WESTERN
+Badminton Courts	Chai Wan Sports Centre	"6 Yee Shun Street, Chai Wan"	114.24	22.26472222	842765	814005	EASTERN
+Badminton Courts	Kwun Chung Sports Centre	"5/F - 7/F, 17 Bowring Street, Jordon"	114.1683333	22.30444444	835380	818387	YAU TSIM MONG
+Badminton Courts	Boundary Street Sports Centre No. 2	"200 Sai Yee Street, Mong Kok"	114.1705556	22.32611111	835614	820784	YAU TSIM MONG
+Badminton Courts	Tai Hing Sports Centre	"38 Tsing Chung Koon Road, Tuen Mun"	113.9730556	22.40333333	815282.9	829358	TUEN MUN
+Badminton Courts	Shui Wo Street Sports Centre	"8/F & 9/F,Shui Wo Street Municipal Services Building,9 Shui Wo Street, Kwun Tong,Kowloon."	114.2241667	22.31555556	841152	819631	KWUN TONG
+Badminton Courts	Lin Ma Hang Playground	"Lin Ma Hang Village, Lin Ma Hang Road, Ta Kwu Ling"	114.1816667	22.5525	836772.7	845857.2	NORTH
+Badminton Courts	Cheung Sha Wan Sports Centre	"J/O Hing Wah Street & Cheung Sha Wan Road, Sham Shui Po"	114.1533333	22.33805556	833857	822100	SHAM SHUI PO
+Badminton Courts	Sheung Wan Sports Centre	"11/F Sheung Wan Municipal Services Building, 345 Queen's Road Central"	114.1497222	22.28611111	833460	816346	CENTRAL & WESTERN
+Badminton Courts	Tai Wo Sports Centre	"Podium Level, Tai Wo Shopping Centre, Tai Wo Estate, Tai Po"	114.1605556	22.45111111	834591	834617	TAI PO
+Badminton Courts	Long Ping Sports Centre	"2/F., Long Ping Commercial Centre, 202 Long Ping Estate, Yuen Long"	114.0230556	22.45027778	820449	834547	YUEN LONG
+Badminton Courts	Smithfield Sports Centre	"4/F, Smithfield Municipal Services Building, 12K Smithfield Road, Kennedy Town, Western"	114.1286111	22.28194444	831297	815897	CENTRAL & WESTERN
+Badminton Courts	Hiu Kwong Street Sports Centre	"2 Hiu Kwong Street, Kwun Tong"	114.2277778	22.31972222	841504	820089	KWUN TONG
+Badminton Courts	Osman Ramju Sadick Memorial Sports Centre	"176 Hing Fong Road, Kwai Chung"	114.1294444	22.36111111	831391	824665	KWAI TSING
+Badminton Courts	Ngau Tau Kok Road Sports Centre	"3/F-4/F Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Ngau Tau Kok"	114.2163889	22.32138889	840338	820275	KWUN TONG
+Badminton Courts	Yuen Long Sports Centre	"3/F, Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long"	114.0238889	22.44138889	820517.2	833569.1	YUEN LONG
+Badminton Courts	Ping Shek Playground	"Choi Sek Lane, Kwun Tong"	114.2119444	22.3325	839870	821480	KWUN TONG
+Badminton Courts	Cheung Fat Sports Centre	"4/F, Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi"	114.1027778	22.3625	828627.9	824815.8	KWAI TSING
+Badminton Courts	Kowloon Bay Sports Centre	"15 Kai Lok Street, Kowloon Bay"	114.2111111	22.32694444	839808	820871	KWUN TONG
+Badminton Courts	Peng Chau Sports Centre	"Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau"	114.0380556	22.285	821962	816229	ISLANDS
+Badminton Courts	Island East Sports Centre	"52 Lei King Road, Sai Wan Ho"	114.2222222	22.28472222	840948	816205	EASTERN
+Badminton Courts	Ngau Chi Wan Sports Centre	"1/F, Ngau Chi Wan Municipal Services Building, 11 Clear Water Bay Road, Kowloon"	114.2097222	22.33444444	839643	821722	WONG TAI SIN
+Badminton Courts	Kai Tak East Sports Centre	"30 Luk Hop Street, San Po Kong"	114.2005556	22.33583333	838708	821877	WONG TAI SIN
+Badminton Courts	Kwai Shing Circuit Playground	"Kwai Shing Circuit, Kwai Chung, New Territories"	114.1280556	22.36222222	831246.9	824789	KWAI TSING
+Badminton Courts	Tsuen King Circuit Sports Centre	"38 Mei Wan Street, Tsuen King Circuit, Tsuen Wan"	114.1111111	22.37777778	829509	826498	TSUEN WAN
+Badminton Courts	Tsang Tai UK Recreation Ground	"Sha Kok Street, Sha Tin"	114.1897222	22.37416667	837591	826123.3	SHA TIN
+Badminton Courts	Tin Shui Sports Centre	"7 Tin Shui Road, Tin Shui Wai, Yuen Long"	113.9980556	22.45472222	817854	835045	YUEN LONG
+Badminton Courts	Stanley Sports Centre	"U/G, 6 Stanley Maket Road, Stanley"	114.2122222	22.21916667	839911	808944	SOUTHERN
+Badminton Courts	Yeung Uk Road Sports Centre	"4/F Yeung Uk Road Municipal Services Building, 45 Yeung Uk Road, Tsuen Wan"	114.1144444	22.36888889	829846	825537	TSUEN WAN
+Badminton Courts	Po Wing Road Sports Centre	"19 Pak Wo Road, Sheung Shui, New Territories"	114.1283333	22.49694444	831273.9	839708.9	NORTH
+Badminton Courts	Tai Po Hui Sports Centre	"6/F Multi Car-Park Building, Fu Shin Estate, 8 Heung Sze Wui Street, Tai Po"	114.1666667	22.44611111	835208	834077	TAI PO
+Badminton Courts	Choi Hung Road Sports Centre	"Sheung Hei Street, Wong Tai Sin"	114.1963889	22.33722222	838285	822007	WONG TAI SIN
+Badminton Courts	Fu Heng Sports Centre	"1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po"	114.1713889	22.45833333	835700	835424	TAI PO
+Badminton Courts	Shek Tong Tsui Sports Centre	"5/F Shek Tong Tsui Municipal Services Building, 470 Queen's Road West"	114.1361111	22.28583333	832061	816315	CENTRAL & WESTERN
+Badminton Courts	Lockhart Road Sports Centre	"10/F Lockhart Road Municipal Services Building, 225 Hennessy Road, Wanchai"	114.1755556	22.27805556	836118	815468	WAN CHAI
+Badminton Courts	Po On Road Sports Centre	"1/F & 2/F Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po"	114.1575	22.33861111	834261	822172.3	SHAM SHUI PO
+Badminton Courts	Lung Sum Avenue Sports Centre	"155 Jockey Club Road, Sheung Shui"	114.1305556	22.505	831491	840595	NORTH
+Badminton Courts	Tung Fong Children's Playground	"Tong Fong, Kwu Tung, Sheung Shui, N.T."	114.1008333	22.50861111	828437.2	840998	NORTH
+Badminton Courts	Wai Tsuen Sports Centre	"6 Miu Kong Street, Tsuen Wan"	114.1225	22.37222222	830667	825905	TSUEN WAN
+Badminton Courts	Tin Ping Sports Centre	"3/F., Tin Ping Estate Shopping Centre, Tin Ping Estate, North"	114.1336111	22.50333333	831820	840411	NORTH
+Badminton Courts	Hin Keng Sports Centre	"Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin"	114.1713889	22.36305556	835698	824880	SHA TIN
+Badminton Courts	Hung Hom Municipal Services Building Sports Centre	"3-5/F Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Hung Hom, Kowloon"	114.1872222	22.30722222	837348	818701	KOWLOON CITY
+Badminton Courts	Fung Shue Wo Sports Centre	"10 Fung Shue Wo Road, Tsing Yi Estate, Phase II, Tsing Yi"	114.1027778	22.35555556	828627.1	824041.3	KWAI TSING
+Badminton Courts	Praya Street Sports Centre	"1/F, Cheung Chau Municipal Services Building, 2 Tai Hing Tai Road, Cheung Chau"	114.0283333	22.20694444	820953	807585	ISLANDS
+Badminton Courts	Sai Wan Ho Sports Centre	"2/F Sai Wan Ho Municipal Services Building, 111 Shau Kei Wan Road, Shaukiwan"	114.2227778	22.28194444	840993	815909	EASTERN
+Badminton Courts	Leung Tin Sports Centre	"4/F, Carpark Building, Tin King Estate, Tuen Mun"	113.965	22.40666667	814461	829716	TUEN MUN
+Badminton Courts	The Jockey Club Tuen Mun Butterfly Beach Sports Centre	"Wu Shan Road, Tuen Mun"	113.9647222	22.37861111	814417	826625	TUEN MUN
+Badminton Courts	Pei Ho Street Sports Centre	"5/F Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po"	114.1611111	22.32916667	834646	821134	SHAM SHUI PO
+Badminton Courts	Yau Oi Sitting-out Area	"Yau Oi Estate, Tuen Mun"	113.9736111	22.38694444	815325.8	827529.3	TUEN MUN
+Badminton Courts	Cheung Chau Sports Centre	"Nam She Tong, Cheung Chau"	114.0311111	22.2075	821245	807661	ISLANDS
+Badminton Courts	Fung Kam Street Sports Centre	"20 Fung Yau Street North, Yuen Long"	114.0330556	22.44305556	821461	833745	YUEN LONG
+Badminton Courts	Tuen Mun Park	"Tuen Mun Heung Sze Wui Road, Tuen Mun"	113.9733333	22.39194444	815319.5	828090.2	TUEN MUN
+Badminton Courts	Lai King Sports Centre	"60 Lai Cho Road, Lai King, Kwai Chung"	114.1277778	22.34972222	831200.1	823417.4	KWAI TSING
+Badminton Courts	Po Lam Sports Centre	"Po Lam Estate, Tseung Kwan O, Sai Kung"	114.255	22.32583333	844328	820761	SAI KUNG
+Badminton Courts	Tung Chung Man Tung Road Sports Centre	"G/F., Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung"	113.9438889	22.29055556	812252.7	816872	ISLANDS
+Badminton Courts	Quarry Bay Sports Centre	"6/F & 7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Quarry Bay"	114.2116667	22.28361111	839866	816090	EASTERN
+Badminton Courts	Tai Po Sports Centre	"13 Ting Tai Road, Tai Po"	114.165	22.45527778	835035	835097	TAI PO
+Badminton Courts	Harbour Road Sports Centre	"27 Harbour Road, Wanchai"	114.1766667	22.28138889	836250.9	815822	WAN CHAI
+Badminton Courts	Heng On Sports Centre	"4/F., Heng On Commercial Centre, Heng On Estate, Ma On Shan, Sha Tin"	114.2277778	22.41666667	841518	830818	SHA TIN
+Badminton Courts	Kowloon Park Sports Centre	"22 Austin Road, Tsim Sha Tsui"	114.17	22.30194444	835555.3	818101.6	YAU TSIM MONG
+Badminton Courts	Tin Fai Road Sports Centre	"No. 63, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T."	113.9969444	22.46472222	817757.1	836155.6	YUEN LONG
+Badminton Courts	Po Kong Village Road Sports Centre	"120 Po Kong Village Road, Wong Tai Sin"	114.2016667	22.34555556	838814	822930	WONG TAI SIN
+Badminton Courts	Tai Kok Tsui Sports Centre	"5-7/F., Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui"	114.1627778	22.32194444	834817	820319	YAU TSIM MONG
+Badminton Courts	Shun Lee Tsuen Sports Centre	"Shun Lee Tsuen Road, Kwun Tong"	114.2255556	22.32972222	841271	821184	KWUN TONG
+Badminton Courts	Wong Chuk Hang Sports Centre	"168 Wong Chuk Hang Road, Aberdeen"	114.1733333	22.24972222	835909	812330	SOUTHERN
+Badminton Courts	Chuk Yuen Sports Centre	"Chuk Yuen North Estate, Chuk Yuen Road, Wong Tai Sin"	114.1936111	22.34555556	837982	822937	WONG TAI SIN
+Badminton Courts	Lai Chi Kok Park Sports Centre	"1 Lai Wan Road, Lai Chi Kok, Kowloon"	114.1383333	22.34083333	832285	822403	SHAM SHUI PO
+Badminton Courts	Mui Wo Sports Centre	"1/F, Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island"	113.9963889	22.26694444	817675	814251	ISLANDS
+Badminton Courts	Ta Kwu Ling Playground	"Tai Po Tin Village, Ping Che Road, Ta Kwu Ling, N.T."	114.1538889	22.53083333	833905.7	843465.9	NORTH
+Badminton Courts	Chun Wah Road Sports Centre	"Top Floor, Lok Nga Court Carpark, 50 Chun Wah Road, Ngau Tau Kok, Kwun Tong"	114.2205556	22.3225	840764	820385	KWUN TONG
+Badminton Courts	Boundary Street Sports Centre No. 1	"200 Sai Yee Street, Mong Kok"	114.1708333	22.32555556	835654	820730	YAU TSIM MONG
+Badminton Courts	Tseung Kwan O Sports Centre	"9 Wan Lung Road, Tseung Kwan O, Sai Kung"	114.2597222	22.31722222	844794	819792	SAI KUNG
+Badminton Courts	Siu Sai Wan Sports Centre	"2/F - 4/F, Siu Sai Wan Complex, 15 Siu Sai Wan Road, Hong Kong"	114.2494444	22.26361111	843759.5	813872.6	EASTERN
+Badminton Courts	Kowloon City Sports Centre	"3/F, Kln City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City"	114.1888889	22.32972222	837506	821178	KOWLOON CITY
+Badminton Courts	Lam Tin South Sports Centre	"170 Pik Wan Road, Lam Tin, Kwun Tong"	114.2388889	22.30388889	842653	818325	KWUN TONG
+Badminton Courts	Yue Kwong Road Sports Centre	Aberdeen Reservoir Road	114.1569444	22.25055556	834220	812416	SOUTHERN
+Badminton Courts	Ma On Shan Sports Centre	"14 On Chun Street, Ma On Shan, Shatin"	114.2294444	22.42611111	841692	831852	SHA TIN
+Badminton Courts	Tin Shui Wai Sports Centre	"1 Tin Pak Road, Tin Shui Wai, Yuen Long"	114.0066667	22.455	818736	835071	YUEN LONG
+Badminton Courts	Tsing Yi Southwest Sports Centre	"70 Chung Mei Road, Tsing Yi, New,Territories"	114.1019444	22.35166667	828562.4	823605.4	KWAI TSING
+Badminton Courts	Pak Fuk Children's Playground	"Pak Wo Road, Fanling, N.T."	114.1336111	22.49472222	831822.7	839448	NORTH
+Badminton Courts	Yuen Wo Road Sports Centre	"4 Yuen Wo Road, Sha Tin"	114.1925	22.38305556	837884	827080	SHA TIN
+Badminton Courts	Tsui Lam Sports Centre	"Tsui Lam Estate, Sai Kung"	114.2494444	22.32222222	843754	820359	SAI KUNG
+Badminton Courts	Mei Lam Sports Centre	"Mei Lam Estate Phase III, Tai Wai, Sha Tin"	114.1755556	22.37916667	836126	826653	SHA TIN
+Badminton Courts	Fu Shin Sports Centre	"Multi Car-Park Building, Fu Shin Estate, Tai Po"	114.1741667	22.45388889	835984	834936	TAI PO
+Badminton Courts	Sun Yat Sen Memorial Park Sports Centre	"18 Eastern Street North, Sai Ying Pun"	114.1436111	22.29027778	832828	816808	CENTRAL & WESTERN
+Badminton Courts	Fa Yuen Street Sports Centre	"13/F Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mong Kok"	114.1708333	22.32083333	835632	820197	YAU TSIM MONG
+Badminton Courts	Bowen Road Temporary Playground	"Bowen Road, Wan Chai, Hong Kong"	114.1747222	22.27138889	836058.5	814730.2	WAN CHAI
+Badminton Courts	Pak Lam Road Garden	"Tin Liu Sun Tsuen, Ma Wan, Tsuen Wan, N.T"	114.0591667	22.3525	824146.5	823708.3	TSUEN WAN
+Badminton Courts	Morse Park Sports Centre	"Fung Mo Street, WTS"	114.19	22.33833333	837633	822138	WONG TAI SIN
