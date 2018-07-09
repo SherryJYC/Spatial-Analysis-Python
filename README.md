@@ -15,7 +15,7 @@ The settings and interpreter to run source codes have the following requirements
 * Pyproj 1.9.5.1
 
 ## Author
-### JIANG Yuchang
-### XUE Jiaying
-### LI Jingyan
+* JIANG Yuchang
+* XUE Jiaying
+* LI Jingyan
 
