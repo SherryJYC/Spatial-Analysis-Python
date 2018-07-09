@@ -1,4 +1,4 @@
-# Spatial-Distribution-Analysis-Project-
+# Spatial-Distribution-Analysis-Project
 ### System Customization and Development
 ## Getting Start
 This file contains instructions for source codes applied in LSGI3431A. All source codes are in this path ‘./Appendix/SourceCode/’.
